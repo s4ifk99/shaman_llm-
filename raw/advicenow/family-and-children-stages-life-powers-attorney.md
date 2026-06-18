@@ -1,0 +1,16 @@
+---
+source: Advicenow
+url: "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/powers-attorney"
+title: "Powers of attorney"
+topic: "Stages of life"
+last_updated: ""
+crawl_date: "2026-06-17"
+---
+
+#  Powers of attorney
+
+Information about authorising someone else to make decisions about your property and financial affairs or your health and personal welfare on your behalf. Includes lasting and enduring powers of attorney.
+
+[Quality checked]()
+
+[ GOV.UK  Make, register or end a lasting power of attorney  Explains what power of attorney is, and how you can register, change or end power of attorney.  ](https://www.gov.uk/power-of-attorney) [ GOV.UK  Make, register or end a lasting power of attorney A Lasting Power of Attorney lets you appoint someone to make decisions on your behalf. It’s normally used when someone is unable to make their own decisions. ](https://www.gov.uk/power-of-attorney) [ Age UK  Power of Attorney  Explains what the law says about powers of attorney, and how to give someone powers of attorney to help you handle your affairs.   ](https://www.ageuk.org.uk/globalassets/age-uk/documents/information-guides/ageukig21_powers_of_attorney_inf.pdf) [ Alzheimer's Society  Lasting power of attorney  Explains who can make a lasting power of attorney and how it can be made.  ](https://www.alzheimers.org.uk/get-support/legal-financial/lasting-power-attorney) [ Compassion in Dying  Health power of attorney Explains what a Health power of attorney (the legal name is 'Lasting Power of Attorney for Health and Welfare') is and how to make. It is for people living in England and Wales.   ](https://compassionindying.org.uk/how-we-can-help/lasting-power-attorney-health-welfare/) [ GOV.UK  Become a court-appointed deputy A deputy is someone appointed to make decisions for someone who is unable to do so on their own. The Mental Capacity Act is used to work out if someone can make their own decisions and how they can be helped. A deputy is usually a close friend or relative of the person who needs help making decisions, or can also be a professional, like an accountant or a solicitor. ](https://www.gov.uk/become-deputy) [ Age UK  Arranging for someone to make decisions on your behalf (PDF) This factsheet looks at how you can arrange for other people to make decisions about your health, care and finances if you think you may lose the mental capacity to do this in future. This is usually family members or friends, but it could be a professional such as a solicitor. ](https://www.ageuk.org.uk/globalassets/age-uk/documents/factsheets/fs22_arranging_for_someone_to_make_decisions_on_your_behalf_fcs.pdf?dtrk=true) [ Citizens Advice  Managing affairs for someone else Information on managing someone's affairs including ordinary, lasting and enduring power of attorney, and mental capacity. ](https://www.citizensadvice.org.uk/family/looking-after-people/managing-affairs-for-someone-else/) [ Mind  Money and mental health Information for people with mental health problems on how, if necessary, you can give others control over your money if you become particularly ill. ](https://www.mind.org.uk/information-support/tips-for-everyday-living/money-and-mental-health/?o=6849#.WvRGkKkh3NA)

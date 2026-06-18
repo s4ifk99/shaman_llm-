@@ -1,0 +1,2484 @@
+{
+  "source": "Advicenow",
+  "crawl_date": "2026-06-17",
+  "start_url": "https://www.advicenow.org.uk/get-help",
+  "total_discovered": 275,
+  "total_saved": 275,
+  "pages": [
+    {
+      "title": "Accessibility and language options for using our information",
+      "url": "https://www.advicenow.org.uk/get-help/accessibility-and-language-options-using-our-information",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "accessibility-and-language-options-using-our-information.md"
+    },
+    {
+      "title": "Benefit appeals",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/benefit-appeals",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-benefit-appeals.md"
+    },
+    {
+      "title": "Benefit fraud",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/benefit-fraud",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-benefit-fraud.md"
+    },
+    {
+      "title": "Benefit tribunals",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/benefit-tribunals",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-benefit-tribunals.md"
+    },
+    {
+      "title": "How to write useful evidence for a DLA appeal",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/appeal-dla-decision/how-write-useful-evidence-dla",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-appeal-dla-decision-how-write-useful-evidence-dla.md"
+    },
+    {
+      "title": "How to appeal a DLA decision",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/appeal-dla-decision",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-appeal-dla-decision.md"
+    },
+    {
+      "title": "Apply for DLA",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/apply-dla",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-apply-dla.md"
+    },
+    {
+      "title": "How to challenge a DLA decision for a child - what to do",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/challenging-dla-decision-what-you-need-know",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-challenging-dla-decision-what-you-need-know.md"
+    },
+    {
+      "title": "The DLA appeal process",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/dla-appeal-process",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-dla-appeal-process.md"
+    },
+    {
+      "title": "DLA mandatory reconsideration letter tool",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/dla-mandatory-reconsideration-letter-tool",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "January 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-dla-mandatory-reconsideration-letter-tool.md"
+    },
+    {
+      "title": "How DLA care and mobility components work",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/how-dla-care-and-mobility-components-work",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2025",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-how-dla-care-and-mobility-components-work.md"
+    },
+    {
+      "title": "How to find an adviser to help with your child’s DLA claim",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/how-find-adviser-help-your-childs-dla-claim",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-how-find-adviser-help-your-childs-dla-claim.md"
+    },
+    {
+      "title": "How to write a statement for a DLA tribunal",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/how-write-statement-dla-tribunal",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2024",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-how-write-statement-dla-tribunal.md"
+    },
+    {
+      "title": "Supporting a friend or family at a DLA appeal?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/supporting-friend-or-family-dla-appeal",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-supporting-friend-or-family-dla-appeal.md"
+    },
+    {
+      "title": "Thanks for using the DLA mandatory reconsideration letter tool",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla/thanks-using-dla-mandatory-reconsideration-letter",
+      "source": "Advicenow",
+      "topic": "Disability Living Allowance (DLA)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla-thanks-using-dla-mandatory-reconsideration-letter.md"
+    },
+    {
+      "title": "Disability Living Allowance (DLA)",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/disability-living-allowance-dla",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-disability-living-allowance-dla.md"
+    },
+    {
+      "title": "Can I bring someone with me to my ESA appeal hearing?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/employment-and-support-allowance-esa/employment-and-support-allowance-esa-0",
+      "source": "Advicenow",
+      "topic": "Employment and Support Allowance (ESA) eligibility",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-employment-and-support-allowance-esa-employment-and-support-allowance-esa-0.md"
+    },
+    {
+      "title": "Employment and Support Allowance (ESA) points system and rules",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/employment-and-support-allowance-esa/employment-and-support-allowance-esa",
+      "source": "Advicenow",
+      "topic": "Employment and Support Allowance (ESA)",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-employment-and-support-allowance-esa-employment-and-support-allowance-esa.md"
+    },
+    {
+      "title": "What should I do about my ESA decision",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/employment-and-support-allowance-esa/what-should-i-do-about-my-esa-decision",
+      "source": "Advicenow",
+      "topic": "Employment and Support Allowance (ESA)",
+      "last_updated": "March 2024",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-employment-and-support-allowance-esa-what-should-i-do-about-my-esa-decision.md"
+    },
+    {
+      "title": "Who decides if my ESA appeal is successful?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/employment-and-support-allowance-esa/who-decides-if-my-esa-appeal-successful",
+      "source": "Advicenow",
+      "topic": "Employment and Support Allowance (ESA)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-employment-and-support-allowance-esa-who-decides-if-my-esa-appeal-successful.md"
+    },
+    {
+      "title": "Employment and Support Allowance (ESA)",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/employment-and-support-allowance-esa",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-employment-and-support-allowance-esa.md"
+    },
+    {
+      "title": "How to find an adviser to help with your benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/how-find-adviser-help-your-benefits",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "March 2024",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-how-find-adviser-help-your-benefits.md"
+    },
+    {
+      "title": "Living with a partner and benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/living-partner-and-benefits",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "February 2025",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-living-partner-and-benefits.md"
+    },
+    {
+      "title": "Information page template",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/new-breadcrumb/information-page-template",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "August 2024",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-new-breadcrumb-information-page-template.md"
+    },
+    {
+      "title": "Benefits for families",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/benefits-families",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-benefits-families.md"
+    },
+    {
+      "title": "Bereavement benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/bereavement-benefits",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-bereavement-benefits.md"
+    },
+    {
+      "title": "Carers benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/carers-benefits",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-carers-benefits.md"
+    },
+    {
+      "title": "Housing related benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/housing-related-benefits",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-housing-related-benefits.md"
+    },
+    {
+      "title": "Job seeking benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/job-seeking-benefits",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-job-seeking-benefits.md"
+    },
+    {
+      "title": "Maternity benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/maternity-benefits",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-maternity-benefits.md"
+    },
+    {
+      "title": "Retirement pensions",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/retirement-pensions",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-retirement-pensions.md"
+    },
+    {
+      "title": "Tax credits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits/tax-credits",
+      "source": "Advicenow",
+      "topic": "Other types of benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits-tax-credits.md"
+    },
+    {
+      "title": "Other types of benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/other-types-benefits",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-other-types-benefits.md"
+    },
+    {
+      "title": "Help to claim Personal Independence Payment",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/help-claim-personal-independence-payment",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-help-claim-personal-independence-payment.md"
+    },
+    {
+      "title": "How to fill in the PIP form - a video guide",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/how-fill-pip-form-video-guide",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "January 2024",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-how-fill-pip-form-video-guide.md"
+    },
+    {
+      "title": "How to write effective evidence for a PIP application or appeal",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/how-write-effective-evidence-pip-application-or",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-how-write-effective-evidence-pip-application-or.md"
+    },
+    {
+      "title": "How the PIP points system works - descriptors and activities",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/personal-independence-payment-pip-descriptors",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "March 2025",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-personal-independence-payment-pip-descriptors.md"
+    },
+    {
+      "title": "The PIP appeal process",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/pip-appeal-process",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-pip-appeal-process.md"
+    },
+    {
+      "title": "How to appeal a PIP decision",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/pip-appeals-how-appeal-pip-decision",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-pip-appeals-how-appeal-pip-decision.md"
+    },
+    {
+      "title": "How to support a friend at a PIP appeal hearing",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/pip-appeals-how-support-friend-or-family-pip",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-pip-appeals-how-support-friend-or-family-pip.md"
+    },
+    {
+      "title": "How to write a PIP tribunal statement",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/pip-appeals-how-write-statement-pip-tribunal",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-pip-appeals-how-write-statement-pip-tribunal.md"
+    },
+    {
+      "title": "PIP mandatory reconsideration letter tool",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/pip-mandatory-reconsideration-letter-tool",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "January 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-pip-mandatory-reconsideration-letter-tool.md"
+    },
+    {
+      "title": "How to challenge a PIP decision",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip/pip-mandatory-reconsideration-what-you-need",
+      "source": "Advicenow",
+      "topic": "Personal Independence Payment (PIP)",
+      "last_updated": "January 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip-pip-mandatory-reconsideration-what-you-need.md"
+    },
+    {
+      "title": "Personal Independence Payment (PIP)",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/personal-independence-payment-pip",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "January 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-personal-independence-payment-pip.md"
+    },
+    {
+      "title": "Social fund payments",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/social-fund-payments",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-social-fund-payments.md"
+    },
+    {
+      "title": "Can they take away my current award if I appeal for LCWRA?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/appeal-work-capability-assessment-decision/can-they-take-away",
+      "source": "Advicenow",
+      "topic": "Appeal a work capability assessment decision",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-appeal-work-capability-assessment-decision-can-they-take-away.md"
+    },
+    {
+      "title": "Do I need a lawyer for a WCA tribunal?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/appeal-work-capability-assessment-decision/do-i-need-lawyer",
+      "source": "Advicenow",
+      "topic": "Appeal a work capability assessment decision",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-appeal-work-capability-assessment-decision-do-i-need-lawyer.md"
+    },
+    {
+      "title": "How long does a Work Capability Assessment (WCA) tribunal hearing last?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/appeal-work-capability-assessment-decision/how-long-does-work",
+      "source": "Advicenow",
+      "topic": "Appeal a work capability assessment decision",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-appeal-work-capability-assessment-decision-how-long-does-work.md"
+    },
+    {
+      "title": "What happens at a UC/ESA appeal video hearing?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/appeal-work-capability-assessment-decision/what-happens-ucesa",
+      "source": "Advicenow",
+      "topic": "Appeal a work capability assessment decision",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-appeal-work-capability-assessment-decision-what-happens-ucesa.md"
+    },
+    {
+      "title": "What should I wear to a work capability assessment tribunal hearing?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/appeal-work-capability-assessment-decision/what-should-i-wear",
+      "source": "Advicenow",
+      "topic": "Appeal a work capability assessment decision",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-appeal-work-capability-assessment-decision-what-should-i-wear.md"
+    },
+    {
+      "title": "Appeal a work capability assessment decision",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/appeal-work-capability-assessment-decision",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-appeal-work-capability-assessment-decision.md"
+    },
+    {
+      "title": "Apply for Universal Credit",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/apply-universal-credit",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-apply-universal-credit.md"
+    },
+    {
+      "title": "Claimant commitments and how to avoid a Universal Credit sanction",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/avoid-universal-credit-sanction",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-avoid-universal-credit-sanction.md"
+    },
+    {
+      "title": "What to do if you get a Universal Credit sanction",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/challenge-universal-credit-sanction",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-challenge-universal-credit-sanction.md"
+    },
+    {
+      "title": "Challenging a work capability assessment decision",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/challenging-work-capability-assessment-decision",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-challenging-work-capability-assessment-decision.md"
+    },
+    {
+      "title": "FAQs about WCA mandatory reconsiderations and appeal",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/faqs-about-wca-mandatory-reconsiderations-and-appeal",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-faqs-about-wca-mandatory-reconsiderations-and-appeal.md"
+    },
+    {
+      "title": "FAQs about work capability assessment decisions",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/faqs-about-work-capability-assessment-decisions",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-faqs-about-work-capability-assessment-decisions.md"
+    },
+    {
+      "title": "How to write effective evidence for a work capability assessment (WCA)",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/how-write-effective-evidence-work-capability-assessment-wca",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-how-write-effective-evidence-work-capability-assessment-wca.md"
+    },
+    {
+      "title": "How the Universal Credit health element (LCWRA) works - descriptors, points and substantial risk rules",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/limited-capability-work-and-work-related-activity-element",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-limited-capability-work-and-work-related-activity-element.md"
+    },
+    {
+      "title": "Supporting a friend or family at an appeal about their work capability?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/supporting-friend-or-family-appeal-about-their-work",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-supporting-friend-or-family-appeal-about-their-work.md"
+    },
+    {
+      "title": "Universal Credit overpayments",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/universal-credit-overpayments",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-universal-credit-overpayments.md"
+    },
+    {
+      "title": "Universal Credit sanction anytime revision letter tool",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/universal-credit-sanction-anytime-revision-letter-tool",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-universal-credit-sanction-anytime-revision-letter-tool.md"
+    },
+    {
+      "title": "What should a doctor include in medical evidence for a work capability assessment appeal?",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/what-should-doctor-include-medical-evidence-work-capability",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-what-should-doctor-include-medical-evidence-work-capability.md"
+    },
+    {
+      "title": "The work capability assessment appeal process",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/work-capability-assessment-appeal-process",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-work-capability-assessment-appeal-process.md"
+    },
+    {
+      "title": "WCA mandatory reconsideration letter tool",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/work-capability-assessment-mandatory-reconsideration-letter",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-work-capability-assessment-mandatory-reconsideration-letter.md"
+    },
+    {
+      "title": "Work capability assessment tribunal hearings",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/work-capability-assessment-tribunal-hearings",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-work-capability-assessment-tribunal-hearings.md"
+    },
+    {
+      "title": "Work Capability Assessment Tribunal Submission Tool",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc/work-capability-assessment-tribunal-submission-tool",
+      "source": "Advicenow",
+      "topic": "Universal Credit (UC)",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc-work-capability-assessment-tribunal-submission-tool.md"
+    },
+    {
+      "title": "Universal Credit (UC)",
+      "url": "https://www.advicenow.org.uk/get-help/benefits/universal-credit-uc",
+      "source": "Advicenow",
+      "topic": "Benefits",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "benefits-universal-credit-uc.md"
+    },
+    {
+      "title": "Benefits",
+      "url": "https://www.advicenow.org.uk/get-help/benefits",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "benefits.md"
+    },
+    {
+      "title": "Democratic process and voting",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights/democratic-process-and-voting",
+      "source": "Advicenow",
+      "topic": "Civil rights",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights-democratic-process-and-voting.md"
+    },
+    {
+      "title": "Discrimination",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights/discrimination",
+      "source": "Advicenow",
+      "topic": "Civil rights",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights-discrimination.md"
+    },
+    {
+      "title": "Environmental rights",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights/environmental-rights",
+      "source": "Advicenow",
+      "topic": "Civil rights",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights-environmental-rights.md"
+    },
+    {
+      "title": "Human rights",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights/human-rights",
+      "source": "Advicenow",
+      "topic": "Civil rights",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights-human-rights.md"
+    },
+    {
+      "title": "New protest laws - a beginner's guide",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights/new-protest-laws-beginners-guide",
+      "source": "Advicenow",
+      "topic": "Civil rights",
+      "last_updated": "April 2024",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights-new-protest-laws-beginners-guide.md"
+    },
+    {
+      "title": "Protest rights",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights/protest-rights",
+      "source": "Advicenow",
+      "topic": "Civil rights",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights-protest-rights.md"
+    },
+    {
+      "title": "Is protest still legal?",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights/protest-still-legal",
+      "source": "Advicenow",
+      "topic": "Civil rights",
+      "last_updated": "April 2024",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights-protest-still-legal.md"
+    },
+    {
+      "title": "Civil rights",
+      "url": "https://www.advicenow.org.uk/get-help/civil-rights",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "civil-rights.md"
+    },
+    {
+      "title": "Credit and loans",
+      "url": "https://www.advicenow.org.uk/get-help/credit-loans-and-debts/credit-and-loans",
+      "source": "Advicenow",
+      "topic": "Credit, loans and debts",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "credit-loans-and-debts-credit-and-loans.md"
+    },
+    {
+      "title": "Debt collection",
+      "url": "https://www.advicenow.org.uk/get-help/credit-loans-and-debts/debt-collection",
+      "source": "Advicenow",
+      "topic": "Credit, loans and debts",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "credit-loans-and-debts-debt-collection.md"
+    },
+    {
+      "title": "Debt",
+      "url": "https://www.advicenow.org.uk/get-help/credit-loans-and-debts/debt",
+      "source": "Advicenow",
+      "topic": "Credit, loans and debts",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "credit-loans-and-debts-debt.md"
+    },
+    {
+      "title": "Adult education and training",
+      "url": "https://www.advicenow.org.uk/get-help/education-and-training/adult-education-and-training",
+      "source": "Advicenow",
+      "topic": "Education and training",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "education-and-training-adult-education-and-training.md"
+    },
+    {
+      "title": "Higher and further education",
+      "url": "https://www.advicenow.org.uk/get-help/education-and-training/higher-and-further-education",
+      "source": "Advicenow",
+      "topic": "Education and training",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "education-and-training-higher-and-further-education.md"
+    },
+    {
+      "title": "Schools",
+      "url": "https://www.advicenow.org.uk/get-help/education-and-training/schools",
+      "source": "Advicenow",
+      "topic": "Education and training",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "education-and-training-schools.md"
+    },
+    {
+      "title": "Education and training",
+      "url": "https://www.advicenow.org.uk/get-help/education-and-training",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "education-and-training.md"
+    },
+    {
+      "title": "Health and safety at work - your rights and how to raise a concern",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/health-and-safety-work",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-health-and-safety-work.md"
+    },
+    {
+      "title": "Leaving your job - rights on giving notice, final pay and resigning",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/leaving-your-job",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-leaving-your-job.md"
+    },
+    {
+      "title": "Parental and carers rights",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/parental-and-carers-rights",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-parental-and-carers-rights.md"
+    },
+    {
+      "title": "Pay, minimum wage, pay slips, and deductions",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/pay-minimum-wage-pay-slips-and-deductions",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "December 2025",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-pay-minimum-wage-pay-slips-and-deductions.md"
+    },
+    {
+      "title": "Remote and flexible working",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/remote-and-flexible-working",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-remote-and-flexible-working.md"
+    },
+    {
+      "title": "Holiday pay rights - How much leave are you entitled to?",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/time-work-holiday-entitlement",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-time-work-holiday-entitlement.md"
+    },
+    {
+      "title": "Sick pay and your rights to time off when you’re ill",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/time-work-sick-leave",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-time-work-sick-leave.md"
+    },
+    {
+      "title": "How to work out if you are an employee, a worker or self-employed",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/worker-employee-or-self-employed",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-worker-employee-or-self-employed.md"
+    },
+    {
+      "title": "Working hours and breaks at work",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/working-hours-and-breaks-work",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-working-hours-and-breaks-work.md"
+    },
+    {
+      "title": "Parental rights at work - maternity, paternity, and redundancy protections",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights/your-rights-work-if-you-are-pregnant-or-parent",
+      "source": "Advicenow",
+      "topic": "Employment rights",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights-your-rights-work-if-you-are-pregnant-or-parent.md"
+    },
+    {
+      "title": "Employment rights",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-rights",
+      "source": "Advicenow",
+      "topic": "Employment",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-rights.md"
+    },
+    {
+      "title": "After you start your employment tribunal claim",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/after-you-start-your-employment-tribunal-claim",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-after-you-start-your-employment-tribunal-claim.md"
+    },
+    {
+      "title": "Can I go to an employment tribunal?",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/can-i-go-employment-tribunal",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-can-i-go-employment-tribunal.md"
+    },
+    {
+      "title": "Evidence and witness statements for the employment tribunal",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/evidence-and-witness-statements-employment-tribunal",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-evidence-and-witness-statements-employment-tribunal.md"
+    },
+    {
+      "title": "How to get free legal advice about an employment problem",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/how-get-free-legal-advice-about-employment-problem",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-how-get-free-legal-advice-about-employment-problem.md"
+    },
+    {
+      "title": "How to get free legal advice about your tribunal case",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/how-get-free-legal-advice-about-your-tribunal-case",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-how-get-free-legal-advice-about-your-tribunal-case.md"
+    },
+    {
+      "title": "How to start an employment tribunal claim",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/how-start-employment-tribunal-claim",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-how-start-employment-tribunal-claim.md"
+    },
+    {
+      "title": "Is it worth going to employment tribunal?",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/it-worth-going-employment-tribunal",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-it-worth-going-employment-tribunal.md"
+    },
+    {
+      "title": "Negotiate an out of court settlement to avoid an employment tribunal",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/negotiate-out-court-settlement-avoid-employment-tribunal",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "November 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-negotiate-out-court-settlement-avoid-employment-tribunal.md"
+    },
+    {
+      "title": "Representing yourself at employment tribunal",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/representing-yourself-employment-tribunal",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-representing-yourself-employment-tribunal.md"
+    },
+    {
+      "title": "Value a claim for employment tribunal",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/value-claim-employment-tribunal",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-value-claim-employment-tribunal.md"
+    },
+    {
+      "title": "Before you can start a case at employment tribunal",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals/you-can-start-case-employment-tribunal",
+      "source": "Advicenow",
+      "topic": "Employment tribunals",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals-you-can-start-case-employment-tribunal.md"
+    },
+    {
+      "title": "Employment tribunals",
+      "url": "https://www.advicenow.org.uk/get-help/employment/employment-tribunals",
+      "source": "Advicenow",
+      "topic": "Employment",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-employment-tribunals.md"
+    },
+    {
+      "title": "Self employment",
+      "url": "https://www.advicenow.org.uk/get-help/employment/self-employment",
+      "source": "Advicenow",
+      "topic": "Employment",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-self-employment.md"
+    },
+    {
+      "title": "Disciplinary procedures",
+      "url": "https://www.advicenow.org.uk/get-help/employment/sorting-out-problem-work/disciplinary-procedures",
+      "source": "Advicenow",
+      "topic": "Sorting out a problem at work",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-sorting-out-problem-work-disciplinary-procedures.md"
+    },
+    {
+      "title": "Grievance letter tool",
+      "url": "https://www.advicenow.org.uk/get-help/employment/sorting-out-problem-work/grievance-letter-tool",
+      "source": "Advicenow",
+      "topic": "Sorting out a problem at work",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment-sorting-out-problem-work-grievance-letter-tool.md"
+    },
+    {
+      "title": "Negotiating with your workplace",
+      "url": "https://www.advicenow.org.uk/get-help/employment/sorting-out-problem-work/negotiating-your-workplace",
+      "source": "Advicenow",
+      "topic": "Sorting out a problem at work",
+      "last_updated": "June 2023",
+      "crawl_date": "2026-06-17",
+      "file": "employment-sorting-out-problem-work-negotiating-your-workplace.md"
+    },
+    {
+      "title": "How to use the grievance procedure to deal with problems at work",
+      "url": "https://www.advicenow.org.uk/get-help/employment/sorting-out-problem-work/sorting-out-work-problems-formally",
+      "source": "Advicenow",
+      "topic": "Sorting out a problem at work",
+      "last_updated": "January 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-sorting-out-problem-work-sorting-out-work-problems-formally.md"
+    },
+    {
+      "title": "How to sort out work problems informally",
+      "url": "https://www.advicenow.org.uk/get-help/employment/sorting-out-problem-work/sorting-out-work-problems-informally",
+      "source": "Advicenow",
+      "topic": "Sorting out a problem at work",
+      "last_updated": "June 2023",
+      "crawl_date": "2026-06-17",
+      "file": "employment-sorting-out-problem-work-sorting-out-work-problems-informally.md"
+    },
+    {
+      "title": "Sorting out a problem at work",
+      "url": "https://www.advicenow.org.uk/get-help/employment/sorting-out-problem-work",
+      "source": "Advicenow",
+      "topic": "Employment",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "employment-sorting-out-problem-work.md"
+    },
+    {
+      "title": "Unfair treatment at work",
+      "url": "https://www.advicenow.org.uk/get-help/employment/unfair-treatment-work",
+      "source": "Advicenow",
+      "topic": "Employment",
+      "last_updated": "December 2024",
+      "crawl_date": "2026-06-17",
+      "file": "employment-unfair-treatment-work.md"
+    },
+    {
+      "title": "Employment",
+      "url": "https://www.advicenow.org.uk/get-help/employment",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "employment.md"
+    },
+    {
+      "title": "How to apply for a child arrangements order without a lawyer",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-arrangements/apply-child-arrangements-order-without-lawyer",
+      "source": "Advicenow",
+      "topic": "Child arrangements",
+      "last_updated": "March 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-arrangements-apply-child-arrangements-order-without-lawyer.md"
+    },
+    {
+      "title": "Child arrangements - what worked for us",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-arrangements/child-arrangements-what-worked-us",
+      "source": "Advicenow",
+      "topic": "Child arrangements",
+      "last_updated": "June 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-arrangements-child-arrangements-what-worked-us.md"
+    },
+    {
+      "title": "How to apply for a child arrangements order at a Pathfinder or Child Focussed court",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-arrangements/how-apply-child-arrangements-order-pathfinder-or",
+      "source": "Advicenow",
+      "topic": "Child arrangements",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-arrangements-how-apply-child-arrangements-order-pathfinder-or.md"
+    },
+    {
+      "title": "How to sort out child arrangements",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-arrangements/sorting-out-child-arrangements",
+      "source": "Advicenow",
+      "topic": "Child arrangements",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-arrangements-sorting-out-child-arrangements.md"
+    },
+    {
+      "title": "What to do before you apply to the family court about your children",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-arrangements/what-do-you-apply-family-court-about-your-children",
+      "source": "Advicenow",
+      "topic": "Child arrangements",
+      "last_updated": "October 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-arrangements-what-do-you-apply-family-court-about-your-children.md"
+    },
+    {
+      "title": "Child arrangements",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-arrangements",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-arrangements.md"
+    },
+    {
+      "title": "A guide for Roma parents on what to expect when working with social workers",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-protection/help-roma-families/guide-roma-parents-what-expect",
+      "source": "Advicenow",
+      "topic": "Help for Roma families",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-protection-help-roma-families-guide-roma-parents-what-expect.md"
+    },
+    {
+      "title": "Help for Roma families",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/child-protection/help-roma-families",
+      "source": "Advicenow",
+      "topic": "Children's social services",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-child-protection-help-roma-families.md"
+    },
+    {
+      "title": "Adoption",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services/adoption",
+      "source": "Advicenow",
+      "topic": "Children's social services",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services-adoption.md"
+    },
+    {
+      "title": "Child abuse and neglect",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services/child-abuse-and-neglect",
+      "source": "Advicenow",
+      "topic": "Children's social services",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services-child-abuse-and-neglect.md"
+    },
+    {
+      "title": "Fostering and kinship care",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services/fostering-and-kinship-care",
+      "source": "Advicenow",
+      "topic": "Children's social services",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services-fostering-and-kinship-care.md"
+    },
+    {
+      "title": "Child protection - a film from a Roma parent's view",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services/help-roma-families/child-protection-film",
+      "source": "Advicenow",
+      "topic": "Help for Roma families",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services-help-roma-families-child-protection-film.md"
+    },
+    {
+      "title": "A guide to child protection for Roma parents",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services/help-roma-families/guide-child-protection",
+      "source": "Advicenow",
+      "topic": "Help for Roma families",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services-help-roma-families-guide-child-protection.md"
+    },
+    {
+      "title": "Keeping our children safe - a film for Roma parents",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services/help-roma-families/keeping-our-children-safe",
+      "source": "Advicenow",
+      "topic": "Help for Roma families",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services-help-roma-families-keeping-our-children-safe.md"
+    },
+    {
+      "title": "Local authority care",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services/local-authority-care",
+      "source": "Advicenow",
+      "topic": "Children's social services",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services-local-authority-care.md"
+    },
+    {
+      "title": "Children's social services",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/childrens-social-services",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-childrens-social-services.md"
+    },
+    {
+      "title": "Home ownership and living together",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/cohabitation/home-ownership-and-living-together",
+      "source": "Advicenow",
+      "topic": "Cohabitation",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-cohabitation-home-ownership-and-living-together.md"
+    },
+    {
+      "title": "Make a living together agreement (cohabitation agreement)",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/cohabitation/make-living-together-agreement",
+      "source": "Advicenow",
+      "topic": "Cohabitation",
+      "last_updated": "December 2024",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-cohabitation-make-living-together-agreement.md"
+    },
+    {
+      "title": "Thinking about living together?",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/cohabitation/thinking-about-living-together",
+      "source": "Advicenow",
+      "topic": "Cohabitation",
+      "last_updated": "July 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-cohabitation-thinking-about-living-together.md"
+    },
+    {
+      "title": "Cohabitation",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/cohabitation",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-cohabitation.md"
+    },
+    {
+      "title": "Affordable advice from our panel of solicitors – what they can advise you on",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/affordable-advice-our-panel-solicitors-what",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "December 2024",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-affordable-advice-our-panel-solicitors-what.md"
+    },
+    {
+      "title": "Affordable advice questionnaire completed",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/affordable-advice-questionnaire-completed",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-affordable-advice-questionnaire-completed.md"
+    },
+    {
+      "title": "How to apply for a financial order without a lawyer",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/apply-financial-order-without-lawyer",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "March 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-apply-financial-order-without-lawyer.md"
+    },
+    {
+      "title": "Complaints about the service you received from one of our panel of family solicitors",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/complaints-about-service-you-received-one-our-0",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "December 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-complaints-about-service-you-received-one-our-0.md"
+    },
+    {
+      "title": "Divorce - getting started",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/divorce-getting-started",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "July 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-divorce-getting-started.md"
+    },
+    {
+      "title": "Free guide request - How to apply for a financial order without a lawyer",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/get-divorce-without-lawyer/free-guide-request",
+      "source": "Advicenow",
+      "topic": "Get a divorce without a lawyer",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-get-divorce-without-lawyer-free-guide-request.md"
+    },
+    {
+      "title": "Get a divorce without a lawyer",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/get-divorce-without-lawyer",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "July 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-get-divorce-without-lawyer.md"
+    },
+    {
+      "title": "Getting an international divorce",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/getting-international-divorce",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-getting-international-divorce.md"
+    },
+    {
+      "title": "How to fill in your financial statement (Form E)",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/how-fill-your-financial-statement-form-e",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "April 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-how-fill-your-financial-statement-form-e.md"
+    },
+    {
+      "title": "Living together and breaking up",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/living-together-and-breaking",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-living-together-and-breaking.md"
+    },
+    {
+      "title": "Our affordable advice service",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/our-affordable-advice-service",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "December 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-our-affordable-advice-service.md"
+    },
+    {
+      "title": "Pensions and divorce",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/pensions-and-divorce",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "May 2024",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-pensions-and-divorce.md"
+    },
+    {
+      "title": "Pensions on Divorce - what should you do?",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/pensions-divorce-what-should-you-do",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "April 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-pensions-divorce-what-should-you-do.md"
+    },
+    {
+      "title": "How to sort out your finances when you get divorced",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/sorting-out-your-finances-when-you-get-divorced",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "April 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-sorting-out-your-finances-when-you-get-divorced.md"
+    },
+    {
+      "title": "Thinking about divorcing",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/thinking-about-divorcing",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "July 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-thinking-about-divorcing.md"
+    },
+    {
+      "title": "What to do before applying for a financial order when you get divorced",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation/what-do-applying-financial-order-when-you-get",
+      "source": "Advicenow",
+      "topic": "Divorce and separation",
+      "last_updated": "October 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation-what-do-applying-financial-order-when-you-get.md"
+    },
+    {
+      "title": "Divorce and separation",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/divorce-and-separation",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-divorce-and-separation.md"
+    },
+    {
+      "title": "How to apply for help with family court fees",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/family-court/help-court-fees-civil-or-family-case",
+      "source": "Advicenow",
+      "topic": "Family court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-family-court-help-court-fees-civil-or-family-case.md"
+    },
+    {
+      "title": "How to get legal aid for a family issue",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/family-court/how-get-legal-aid-family-issue",
+      "source": "Advicenow",
+      "topic": "Family court",
+      "last_updated": "October 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-family-court-how-get-legal-aid-family-issue.md"
+    },
+    {
+      "title": "Representing yourself in family court",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/family-court/representing-yourself-family-court",
+      "source": "Advicenow",
+      "topic": "Family court",
+      "last_updated": "April 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-family-court-representing-yourself-family-court.md"
+    },
+    {
+      "title": "Family mediation",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/family-mediation",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "June 2024",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-family-mediation.md"
+    },
+    {
+      "title": "Going to the family court",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/going-family-court",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-going-family-court.md"
+    },
+    {
+      "title": "How to get free or low cost legal advice about your family issue",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/how-get-free-or-low-cost-legal-advice-about-your-family-issue",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "August 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-how-get-free-or-low-cost-legal-advice-about-your-family-issue.md"
+    },
+    {
+      "title": "If your partner or ex is being abusive or controlling",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/if-your-partner-or-ex-being-abusive-or-controlling",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-if-your-partner-or-ex-being-abusive-or-controlling.md"
+    },
+    {
+      "title": "How to get parental responsibility without a lawyer",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/parental-responsibility/how-get-parental-responsibility-without-lawyer",
+      "source": "Advicenow",
+      "topic": "Parental responsibility",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-parental-responsibility-how-get-parental-responsibility-without-lawyer.md"
+    },
+    {
+      "title": "How to make a parental responsibility agreement",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/parental-responsibility/how-make-parental-responsibility-agreement",
+      "source": "Advicenow",
+      "topic": "Parental responsibility",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-parental-responsibility-how-make-parental-responsibility-agreement.md"
+    },
+    {
+      "title": "Why is parental responsibility important?",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/parental-responsibility/why-parental-responsibility-important",
+      "source": "Advicenow",
+      "topic": "Parental responsibility",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-parental-responsibility-why-parental-responsibility-important.md"
+    },
+    {
+      "title": "Work out if you have parental responsibility",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/parental-responsibility/work-out-if-you-have-parental-responsibility",
+      "source": "Advicenow",
+      "topic": "Parental responsibility",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-parental-responsibility-work-out-if-you-have-parental-responsibility.md"
+    },
+    {
+      "title": "Parental responsibility",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/parental-responsibility",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-parental-responsibility.md"
+    },
+    {
+      "title": "Domestic abuse",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/protection-domestic-abuse/domestic-abuse",
+      "source": "Advicenow",
+      "topic": "Protection from domestic abuse",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-protection-domestic-abuse-domestic-abuse.md"
+    },
+    {
+      "title": "Getting help to get an injunction",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/protection-domestic-abuse/getting-help-get-injunction",
+      "source": "Advicenow",
+      "topic": "Protection from domestic abuse",
+      "last_updated": "November 2024",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-protection-domestic-abuse-getting-help-get-injunction.md"
+    },
+    {
+      "title": "Protection from domestic abuse",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/protection-domestic-abuse",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-protection-domestic-abuse.md"
+    },
+    {
+      "title": "Birth",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/birth",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-birth.md"
+    },
+    {
+      "title": "Death",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/death",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-death.md"
+    },
+    {
+      "title": "Funerals",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/funerals",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-funerals.md"
+    },
+    {
+      "title": "Gender reassignment",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/gender-reassignment",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-gender-reassignment.md"
+    },
+    {
+      "title": "Marriage and civil partnership",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/marriage-and-civil-partnership",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-marriage-and-civil-partnership.md"
+    },
+    {
+      "title": "Names",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/names",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-names.md"
+    },
+    {
+      "title": "Powers of attorney",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/powers-attorney",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-powers-attorney.md"
+    },
+    {
+      "title": "Wills and trusts",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life/wills-and-trusts",
+      "source": "Advicenow",
+      "topic": "Stages of life",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life-wills-and-trusts.md"
+    },
+    {
+      "title": "Stages of life",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children/stages-life",
+      "source": "Advicenow",
+      "topic": "Family and children",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children-stages-life.md"
+    },
+    {
+      "title": "Family and children",
+      "url": "https://www.advicenow.org.uk/get-help/family-and-children",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "family-and-children.md"
+    },
+    {
+      "title": "Get help",
+      "url": "https://www.advicenow.org.uk/get-help",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "get-help.md"
+    },
+    {
+      "title": "Getting help to pay for legal advice for your tribunal case",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/getting-help-pay-legal-advice-your-tribunal-case",
+      "source": "Advicenow",
+      "topic": "Going to court",
+      "last_updated": "January 2024",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-getting-help-pay-legal-advice-your-tribunal-case.md"
+    },
+    {
+      "title": "How to deal with a Single Justice Procedure Notice (SJPN)",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/how-deal-single-justice-procedure-notice-sjpn",
+      "source": "Advicenow",
+      "topic": "Going to court",
+      "last_updated": "March 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-how-deal-single-justice-procedure-notice-sjpn.md"
+    },
+    {
+      "title": "Court and tribunal hearings by video or phone call",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/representing-myself-court/court-and-tribunal-hearings-video-or-phone-call",
+      "source": "Advicenow",
+      "topic": "Representing myself in court",
+      "last_updated": "November 2024",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-representing-myself-court-court-and-tribunal-hearings-video-or-phone-call.md"
+    },
+    {
+      "title": "Going to court when the other side has a lawyer and you don't",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/representing-myself-court/going-court-when-other-side-has-lawyer-and-you-dont",
+      "source": "Advicenow",
+      "topic": "Representing myself in court",
+      "last_updated": "January 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-representing-myself-court-going-court-when-other-side-has-lawyer-and-you-dont.md"
+    },
+    {
+      "title": "How to print from your phone",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/representing-myself-court/how-print-your-phone",
+      "source": "Advicenow",
+      "topic": "Representing myself in court",
+      "last_updated": "October 2024",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-representing-myself-court-how-print-your-phone.md"
+    },
+    {
+      "title": "Last minute tips for going to a court or tribunal",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/representing-myself-court/last-minute-tips-going-court-or-tribunal",
+      "source": "Advicenow",
+      "topic": "Representing myself in court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-representing-myself-court-last-minute-tips-going-court-or-tribunal.md"
+    },
+    {
+      "title": "Representing myself in court",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/representing-myself-court",
+      "source": "Advicenow",
+      "topic": "Going to court",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-representing-myself-court.md"
+    },
+    {
+      "title": "After you start a civil claim",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/after-you-start-civil-claim",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "January 2024",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-after-you-start-civil-claim.md"
+    },
+    {
+      "title": "How to appeal a County Court Judgment (CCJ)",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/appealing-against-county-court-decision",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-appealing-against-county-court-decision.md"
+    },
+    {
+      "title": "What evidence do you need to sue someone?",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/evidence-needed-sue-someone",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "October 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-evidence-needed-sue-someone.md"
+    },
+    {
+      "title": "Find out if the defendant is worth suing",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/find-out-if-defendant-worth-suing",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "November 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-find-out-if-defendant-worth-suing.md"
+    },
+    {
+      "title": "Hearings in a small claim or fast track civil case",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/hearings-civil-claim",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-hearings-civil-claim.md"
+    },
+    {
+      "title": "How to apply for help with civil court fees",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/how-apply-help-civil-court-fees",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-how-apply-help-civil-court-fees.md"
+    },
+    {
+      "title": "How to enforce a county court judgment (CCJ)",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/how-enforce-county-court-judgment-ccj",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-how-enforce-county-court-judgment-ccj.md"
+    },
+    {
+      "title": "How to get free legal advice about your civil case",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/how-get-free-legal-advice-about-your-civil-case",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "November 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-how-get-free-legal-advice-about-your-civil-case.md"
+    },
+    {
+      "title": "How to prepare a trial bundle and index",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/how-prepare-trial-bundle-and-index",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-how-prepare-trial-bundle-and-index.md"
+    },
+    {
+      "title": "How to settle a civil claim",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/how-settle-civil-claim",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-how-settle-civil-claim.md"
+    },
+    {
+      "title": "How to take a claim in the civil court - at a glance",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/how-take-claim-civil-court-glance",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "June 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-how-take-claim-civil-court-glance.md"
+    },
+    {
+      "title": "How to ask a civil court to do something or change something (interim applications)",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/interim-applications-how-ask-civil-court-do",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-interim-applications-how-ask-civil-court-do.md"
+    },
+    {
+      "title": "Legal aid for civil cases – help to pay for legal advice",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/legal-aid-civil-cases-help-pay-legal-advice",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "January 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-legal-aid-civil-cases-help-pay-legal-advice.md"
+    },
+    {
+      "title": "Legal costs and who pays them",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/legal-costs-and-who-pays-them",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-legal-costs-and-who-pays-them.md"
+    },
+    {
+      "title": "Make a small claim about injuries caused by a car accident",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/make-small-claim-about-injuries-caused-car",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "June 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-make-small-claim-about-injuries-caused-car.md"
+    },
+    {
+      "title": "How to take someone to civil court - the process",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/overview-process-taking-someone-civil-court",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-overview-process-taking-someone-civil-court.md"
+    },
+    {
+      "title": "Should I sue someone? Help to decide whether to take legal action",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/should-i-sue-someone",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "January 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-should-i-sue-someone.md"
+    },
+    {
+      "title": "How to start a small claim or fast track claim without a solicitor",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/start-small-claim-or-fast-track-claim",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-start-small-claim-or-fast-track-claim.md"
+    },
+    {
+      "title": "Pre-action protocols - What you need to know before starting a civil claim",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/things-you-need-know-about-court-procedure-you",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "February 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-things-you-need-know-about-court-procedure-you.md"
+    },
+    {
+      "title": "How long do you have to sue someone? Time limits explained",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/time-limits-suing-someone",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "September 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-time-limits-suing-someone.md"
+    },
+    {
+      "title": "What is a contract?",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/what-contract",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "May 2023",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-what-contract.md"
+    },
+    {
+      "title": "Who to sue in a civil court?",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/who-sue",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "September 2025",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-who-sue.md"
+    },
+    {
+      "title": "Witness statements and expert reports in a civil case",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court/witness-statements-and-expert-reports",
+      "source": "Advicenow",
+      "topic": "Small claims and the civil court",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court-witness-statements-and-expert-reports.md"
+    },
+    {
+      "title": "Small claims and the civil court",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/small-claims-and-civil-court",
+      "source": "Advicenow",
+      "topic": "Going to court",
+      "last_updated": "April 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-small-claims-and-civil-court.md"
+    },
+    {
+      "title": "How to use civil mediation",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/ways-resolve-dispute/civil-mediation",
+      "source": "Advicenow",
+      "topic": "Ways to resolve a dispute",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-ways-resolve-dispute-civil-mediation.md"
+    },
+    {
+      "title": "Sort out your legal problem before or instead of going to court",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/ways-resolve-dispute/sort-out-your-legal-problem-or-instead-going-court",
+      "source": "Advicenow",
+      "topic": "Ways to resolve a dispute",
+      "last_updated": "March 2026",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-ways-resolve-dispute-sort-out-your-legal-problem-or-instead-going-court.md"
+    },
+    {
+      "title": "Ways to resolve a dispute",
+      "url": "https://www.advicenow.org.uk/get-help/going-court/ways-resolve-dispute",
+      "source": "Advicenow",
+      "topic": "Going to court",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "going-court-ways-resolve-dispute.md"
+    },
+    {
+      "title": "Going to court",
+      "url": "https://www.advicenow.org.uk/get-help/going-court",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "going-court.md"
+    },
+    {
+      "title": "Abortion",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/abortion",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-abortion.md"
+    },
+    {
+      "title": "Care assessments",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/care-assessments",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-care-assessments.md"
+    },
+    {
+      "title": "Care complaints",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/care-complaints",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-care-complaints.md"
+    },
+    {
+      "title": "Care at home",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/care-home",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-care-home.md"
+    },
+    {
+      "title": "Clinical negligence",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/clinical-negligence",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-clinical-negligence.md"
+    },
+    {
+      "title": "Dental treatment",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/dental-treatment",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-dental-treatment.md"
+    },
+    {
+      "title": "Mental health",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/mental-health",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-mental-health.md"
+    },
+    {
+      "title": "NHS charges and prescriptions",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/nhs-charges-and-prescriptions",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-nhs-charges-and-prescriptions.md"
+    },
+    {
+      "title": "Patients rights",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/patients-rights",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-patients-rights.md"
+    },
+    {
+      "title": "Private health care",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/private-health-care",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-private-health-care.md"
+    },
+    {
+      "title": "Residential, nursing and sheltered care",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/residential-nursing-and-sheltered-care",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-residential-nursing-and-sheltered-care.md"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care/sexual-and-reproductive-health",
+      "source": "Advicenow",
+      "topic": "Health and social care",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care-sexual-and-reproductive-health.md"
+    },
+    {
+      "title": "Health and social care",
+      "url": "https://www.advicenow.org.uk/get-help/health-and-social-care",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "health-and-social-care.md"
+    },
+    {
+      "title": "Accommodation",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/accommodation",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-accommodation.md"
+    },
+    {
+      "title": "Emergency and temporary accommodation",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/eviction/emergency-and-temporary-accommodation",
+      "source": "Advicenow",
+      "topic": "Eviction",
+      "last_updated": "November 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-eviction-emergency-and-temporary-accommodation.md"
+    },
+    {
+      "title": "Eviction and repossession",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/eviction/eviction-and-repossession",
+      "source": "Advicenow",
+      "topic": "Eviction",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-eviction-eviction-and-repossession.md"
+    },
+    {
+      "title": "How to deal with a section 21 eviction notice",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/eviction/how-deal-section-21-eviction-notice",
+      "source": "Advicenow",
+      "topic": "Eviction",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-eviction-how-deal-section-21-eviction-notice.md"
+    },
+    {
+      "title": "How to deal with a section 8 eviction notice",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/eviction/how-deal-section-8-eviction-notice",
+      "source": "Advicenow",
+      "topic": "Eviction",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-eviction-how-deal-section-8-eviction-notice.md"
+    },
+    {
+      "title": "Eviction",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/eviction",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-eviction.md"
+    },
+    {
+      "title": "Harassment",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/harassment",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-harassment.md"
+    },
+    {
+      "title": "Emergency accommodation",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/homelessness/emergency-accommodation",
+      "source": "Advicenow",
+      "topic": "Homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-homelessness-emergency-accommodation.md"
+    },
+    {
+      "title": "How to best support people who are threatened with homelessness",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/homelessness/how-best-support-people-who-are-threatened",
+      "source": "Advicenow",
+      "topic": "Homelessness",
+      "last_updated": "October 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-homelessness-how-best-support-people-who-are-threatened.md"
+    },
+    {
+      "title": "How to challenge the decision about your homelessness application",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/homelessness/how-challenge-decision-about-your-homelessness",
+      "source": "Advicenow",
+      "topic": "Homelessness",
+      "last_updated": "October 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-homelessness-how-challenge-decision-about-your-homelessness.md"
+    },
+    {
+      "title": "What to do if you are homeless",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/homelessness/what-do-if-you-are-homeless",
+      "source": "Advicenow",
+      "topic": "Homelessness",
+      "last_updated": "October 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-homelessness-what-do-if-you-are-homeless.md"
+    },
+    {
+      "title": "What to do if you are threatened with homelessness",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/homelessness/what-do-if-you-are-threatened-homelessness",
+      "source": "Advicenow",
+      "topic": "Homelessness",
+      "last_updated": "October 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-homelessness-what-do-if-you-are-threatened-homelessness.md"
+    },
+    {
+      "title": "Homelessness",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/homelessness",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-homelessness.md"
+    },
+    {
+      "title": "Housing rights for care leavers",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/housing-rights-care-leavers",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-housing-rights-care-leavers.md"
+    },
+    {
+      "title": "Housing rights for migrants",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/housing-rights-migrants",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-housing-rights-migrants.md"
+    },
+    {
+      "title": "Guarantors - who they are and what they do",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/guarantors-who-they-are-and-what-they-do",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "July 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-guarantors-who-they-are-and-what-they-do.md"
+    },
+    {
+      "title": "Housing repairs letter tool",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/housing-repairs-letter-tool",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-housing-repairs-letter-tool.md"
+    },
+    {
+      "title": "How to negotiate with your landlord",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/how-negotiate-your-landlord",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-how-negotiate-your-landlord.md"
+    },
+    {
+      "title": "How to show a landlord you will be a good tenant",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/how-show-landlord-you-will-be-good-tenant",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-how-show-landlord-you-will-be-good-tenant.md"
+    },
+    {
+      "title": "Information for guarantors",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/information-guarantors",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "July 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-information-guarantors.md"
+    },
+    {
+      "title": "Private renting in England – important changes since 1st May",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/private-renting-england-important-changes",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-private-renting-england-important-changes.md"
+    },
+    {
+      "title": "Right to rent checks",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/right-rent-checks",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-right-rent-checks.md"
+    },
+    {
+      "title": "What to do if you can't find a guarantor",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies/what-do-if-you-cant-find-guarantor",
+      "source": "Advicenow",
+      "topic": "Renting and tenancies",
+      "last_updated": "July 2024",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies-what-do-if-you-cant-find-guarantor.md"
+    },
+    {
+      "title": "Renting and tenancies",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/renting-and-tenancies",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-renting-and-tenancies.md"
+    },
+    {
+      "title": "Housing conditions and disrepair",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/repairs/housing-conditions-and-disrepair",
+      "source": "Advicenow",
+      "topic": "Repairs",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-repairs-housing-conditions-and-disrepair.md"
+    },
+    {
+      "title": "How to get repairs done in your privately rented home",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/repairs/how-get-repairs-fixed-your-privately-rented-home",
+      "source": "Advicenow",
+      "topic": "Repairs",
+      "last_updated": "May 2026",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-repairs-how-get-repairs-fixed-your-privately-rented-home.md"
+    },
+    {
+      "title": "Repairs",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/repairs",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-repairs.md"
+    },
+    {
+      "title": "Travellers rights",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness/travellers-rights",
+      "source": "Advicenow",
+      "topic": "Housing and homelessness",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness-travellers-rights.md"
+    },
+    {
+      "title": "Housing and homelessness",
+      "url": "https://www.advicenow.org.uk/get-help/housing-and-homelessness",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "housing-and-homelessness.md"
+    },
+    {
+      "title": "How to deal with legal issues",
+      "url": "https://www.advicenow.org.uk/get-help/how-deal-legal-issues",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "June 2025",
+      "crawl_date": "2026-06-17",
+      "file": "how-deal-legal-issues.md"
+    },
+    {
+      "title": "How to find and use reliable online legal information",
+      "url": "https://www.advicenow.org.uk/get-help/how-find-and-use-reliable-online-legal-information",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "June 2025",
+      "crawl_date": "2026-06-17",
+      "file": "how-find-and-use-reliable-online-legal-information.md"
+    },
+    {
+      "title": "How to prepare for seeing a solicitor or adviser",
+      "url": "https://www.advicenow.org.uk/get-help/how-prepare-seeing-solicitor-or-adviser",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "June 2026",
+      "crawl_date": "2026-06-17",
+      "file": "how-prepare-seeing-solicitor-or-adviser.md"
+    },
+    {
+      "title": "Asylum seekers and refugees",
+      "url": "https://www.advicenow.org.uk/get-help/immigration-and-nationality/asylum-seekers-and-refugees",
+      "source": "Advicenow",
+      "topic": "Immigration and nationality",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "immigration-and-nationality-asylum-seekers-and-refugees.md"
+    },
+    {
+      "title": "Citizenship and nationality",
+      "url": "https://www.advicenow.org.uk/get-help/immigration-and-nationality/citizenship-and-nationality",
+      "source": "Advicenow",
+      "topic": "Immigration and nationality",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "immigration-and-nationality-citizenship-and-nationality.md"
+    },
+    {
+      "title": "Detention, removals and deportation",
+      "url": "https://www.advicenow.org.uk/get-help/immigration-and-nationality/detention-removals-and-deportation",
+      "source": "Advicenow",
+      "topic": "Immigration and nationality",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "immigration-and-nationality-detention-removals-and-deportation.md"
+    },
+    {
+      "title": "Immigration controls",
+      "url": "https://www.advicenow.org.uk/get-help/immigration-and-nationality/immigration-controls",
+      "source": "Advicenow",
+      "topic": "Immigration and nationality",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "immigration-and-nationality-immigration-controls.md"
+    },
+    {
+      "title": "No recourse to public funds (NRPF)",
+      "url": "https://www.advicenow.org.uk/get-help/immigration-and-nationality/no-recourse-public-funds-nrpf",
+      "source": "Advicenow",
+      "topic": "Immigration and nationality",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "immigration-and-nationality-no-recourse-public-funds-nrpf.md"
+    },
+    {
+      "title": "Working in the UK",
+      "url": "https://www.advicenow.org.uk/get-help/immigration-and-nationality/working-uk",
+      "source": "Advicenow",
+      "topic": "Immigration and nationality",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "immigration-and-nationality-working-uk.md"
+    },
+    {
+      "title": "Immigration and nationality",
+      "url": "https://www.advicenow.org.uk/get-help/immigration-and-nationality",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "immigration-and-nationality.md"
+    },
+    {
+      "title": "Legal advice and helplines",
+      "url": "https://www.advicenow.org.uk/get-help/legal-advice-and-helplines",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "December 2025",
+      "crawl_date": "2026-06-17",
+      "file": "legal-advice-and-helplines.md"
+    },
+    {
+      "title": "Arrest",
+      "url": "https://www.advicenow.org.uk/get-help/police-and-crime/arrest",
+      "source": "Advicenow",
+      "topic": "Police and crime",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "police-and-crime-arrest.md"
+    },
+    {
+      "title": "Crimes",
+      "url": "https://www.advicenow.org.uk/get-help/police-and-crime/crimes",
+      "source": "Advicenow",
+      "topic": "Police and crime",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "police-and-crime-crimes.md"
+    },
+    {
+      "title": "Motoring offences",
+      "url": "https://www.advicenow.org.uk/get-help/police-and-crime/motoring-offences",
+      "source": "Advicenow",
+      "topic": "Police and crime",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "police-and-crime-motoring-offences.md"
+    },
+    {
+      "title": "Police complaints",
+      "url": "https://www.advicenow.org.uk/get-help/police-and-crime/police-complaints",
+      "source": "Advicenow",
+      "topic": "Police and crime",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "police-and-crime-police-complaints.md"
+    },
+    {
+      "title": "Police powers",
+      "url": "https://www.advicenow.org.uk/get-help/police-and-crime/police-powers",
+      "source": "Advicenow",
+      "topic": "Police and crime",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "police-and-crime-police-powers.md"
+    },
+    {
+      "title": "Sentencing",
+      "url": "https://www.advicenow.org.uk/get-help/police-and-crime/sentencing",
+      "source": "Advicenow",
+      "topic": "Police and crime",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "police-and-crime-sentencing.md"
+    },
+    {
+      "title": "What are personal details?",
+      "url": "https://www.advicenow.org.uk/get-help/what-are-personal-details",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "September 2024",
+      "crawl_date": "2026-06-17",
+      "file": "what-are-personal-details.md"
+    },
+    {
+      "title": "Why you can trust our content",
+      "url": "https://www.advicenow.org.uk/get-help/why-you-can-trust-our-content",
+      "source": "Advicenow",
+      "topic": "",
+      "last_updated": "",
+      "crawl_date": "2026-06-17",
+      "file": "why-you-can-trust-our-content.md"
+    }
+  ]
+}

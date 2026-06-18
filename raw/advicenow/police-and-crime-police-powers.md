@@ -1,0 +1,16 @@
+---
+source: Advicenow
+url: "https://www.advicenow.org.uk/get-help/police-and-crime/police-powers"
+title: "Police powers"
+topic: "Police and crime"
+last_updated: ""
+crawl_date: "2026-06-17"
+---
+
+#  Police powers
+
+Your rights about the police. Includes police powers to stop and search you, or to enter your property.
+
+[Quality checked]()
+
+[ Ask the Police  On what grounds can the police stop and search me? The police are allowed to stop and search you for a number of reasons. This site gives examples of situations when the police can and can't stop you. ](https://www.askthe.police.uk/faq/?id=d326846c-197d-ec11-8d21-6045bd0e67bf) [ Y-Stop  Search card Provides a PDF with useful information and tips to help you manage a stop and search more confidently and to reduce the potential for harm. ](https://www.release.org.uk/publications/y-stop-search-card) [ GOV.UK  Police powers of arrest Explains when a police officer can arrest you, the procedure for arrest and when reasonable force may be used.  ](https://www.gov.uk/police-powers-of-arrest-your-rights) [ Liberty  Police powers of arrest Explain what an arrest is and answers frequently asked questions like: 'What can you be arrested for? What makes an arrest “necessary”? Do the police always have to use handcuffs?' Includes information on your human rights and right to be arrested without discrimination.  ](https://www.libertyhumanrights.org.uk/advice_information/police-powers-of-arrest-2/) [ The Mix  Know your rights when dealing with the police  Tells you what happens next if you are arrested and what are your legal rights, such as getting legal advice. ](https://www.themix.org.uk/explore-our-topics/lifestyle/knowing-your-rights-when-dealing-with-the-police/) [ GOV.UK  Police powers to stop and search: your rights Explains what powers the police have to stop you, search you and ask you to remove clothing. Also explains what the police must tell you before they search you. ](https://www.gov.uk/police-powers-to-stop-and-search-your-rights) [ Liberty  Stop and search - disabled people's rights Anyone can be stopped and searched by the police. If you are disabled, there are other things which are good to know so you understand your rights. Explains what it means to be vulnerable, what is an appropriate adult and if you can get reasonable adjustments. ](https://www.libertyhumanrights.org.uk/advice_information/stop-and-search-disabled-people/) [ Liberty  Stop and account - disabled people's rights Stop and account is when the police ask you your name and what you are doing in an area. Information on your rights as a disabled person. ](https://www.libertyhumanrights.org.uk/advice_information/stop-and-account-disabled-people/) [ The Mix  Police cautions and warnings If the crime you have committed is not that serious, the police may give you a caution or reprimand. Unfortunately, the consequences of this can last much longer than you might think. Explains what a police caution or reprimand means. ](https://www.themix.org.uk/crime-and-safety/police-cautions/whats-the-difference-between-a-warning-and-a-caution-9539.html) [ Liberty  Talking to the police - easy read Your rights when talking to the police, including do I have to talk to them, and what happens if I get arrested?  ](https://www.libertyhumanrights.org.uk/advice_information/talking-to-the-police-easy-read/)
