@@ -17,13 +17,15 @@ from datetime import date, datetime, timezone
 from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
+
+from project_paths import LOGS_DIR, RAW_DIR
 from typing import Iterable
 
 BASE_URL = "https://www.advicenow.org.uk"
 START_URL = f"{BASE_URL}/get-help"
 SITEMAP_URL = f"{BASE_URL}/sitemap.xml"
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "raw" / "advicenow"
-LOG_PATH = Path(__file__).resolve().parent.parent / "logs" / "advicenow-crawl-report.md"
+OUTPUT_DIR = RAW_DIR / "advicenow"
+LOG_PATH = LOGS_DIR / "advicenow-crawl-report.md"
 INDEX_PATH = OUTPUT_DIR / "index.json"
 
 USER_AGENT = "LegalShamanObsidianCrawler/1.0 (+local research; respects robots.txt)"

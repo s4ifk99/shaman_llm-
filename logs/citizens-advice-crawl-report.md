@@ -4,7 +4,7 @@
 - **Finished:** 2026-06-17T17:14:27.651579+00:00
 - **Duration:** 2731.2s
 - **Start URLs:** 9 section hubs
-- **Output directory:** `/home/saif/Projects/shaman_LLM/raw/citizens-advice`
+- **Output directory:** `/home/saif/Projects/legal_shaman/raw/citizens-advice`
 
 ## Summary
 

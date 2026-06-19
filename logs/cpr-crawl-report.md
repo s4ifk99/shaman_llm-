@@ -4,7 +4,7 @@
 - **Finished:** 2026-06-18T11:28:55.930917+00:00
 - **Duration:** 553.1s
 - **Start URL:** https://www.justice.gov.uk/courts/procedure-rules/civil/rules
-- **Output directory:** `/home/saif/Projects/shaman_LLM/raw/cpr`
+- **Output directory:** `/home/saif/Projects/legal_shaman/raw/cpr`
 
 ## Summary
 

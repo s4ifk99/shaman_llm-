@@ -4,7 +4,7 @@
 - **Finished:** 2026-06-17T14:10:55.317461+00:00
 - **Duration:** 1259.8s
 - **Start URL:** https://www.advicenow.org.uk/get-help
-- **Output directory:** `/home/saif/Projects/shaman_LLM/raw/advicenow`
+- **Output directory:** `/home/saif/Projects/legal_shaman/raw/advicenow`
 
 ## Summary
 

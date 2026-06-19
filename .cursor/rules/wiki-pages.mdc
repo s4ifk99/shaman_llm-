@@ -1,0 +1,41 @@
+---
+description: Wiki page structure and category placement
+globs: wiki/**/*.md
+alwaysApply: false
+---
+
+# Wiki pages
+
+Template: `wiki/_page-template.md`. Policy: [AGENTS.md](AGENTS.md) (Wiki value-add policy).
+
+**Do not** create pages that only link to `/raw`, contain truncated excerpts, or leave internal/kernel links unprocessed.
+
+**Do** read full sources (and linked pages where needed), extract guidance, and write synthesized Summary / Key Information / Practical Guidance with source citations.
+
+## Required sections
+
+`# Title` → `## Summary` → `## Key Information` → `## Practical Guidance` → `## Related Concepts` → `## Related Organisations` → `## Sources`
+
+## Category directories
+
+| Directory | Use for |
+|-----------|---------|
+| `wiki/topics/` | Broad subject areas |
+| `wiki/concepts/` | Rights, obligations, definitions |
+| `wiki/procedures/` | Processes, applications, deadlines |
+| `wiki/organisations/` | Advisers, courts, regulators |
+| `wiki/funding/` | Legal aid, pro bono, fees |
+| `wiki/courts/` | Courts, tribunals, hearings |
+| `wiki/regulations/` | CPR, practice directions, statutes |
+
+## Sources section format
+
+```markdown
+- **Citizens Advice** — [Budgeting](https://...) — `raw/citizens-advice/debt-and-money-budgeting.md`
+```
+
+Link to the raw file path and original URL from the source frontmatter.
+
+## After changes
+
+Update category `_index.md`, `wiki/index.md`, and `logs/ingestion-log.md`.

@@ -18,12 +18,14 @@ from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
 
+from project_paths import LOGS_DIR, RAW_DIR
+
 BASE_URL = "https://www.justice.gov.uk"
 START_URL = f"{BASE_URL}/courts/procedure-rules/civil/rules"
 ALLOWED_PREFIX = "/courts/procedure-rules/civil/rules"
 SITEMAP_URL = f"{BASE_URL}/wp-sitemap-posts-page-1.xml"
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "raw" / "cpr"
-LOG_PATH = Path(__file__).resolve().parent.parent / "logs" / "cpr-crawl-report.md"
+OUTPUT_DIR = RAW_DIR / "cpr"
+LOG_PATH = LOGS_DIR / "cpr-crawl-report.md"
 INDEX_PATH = OUTPUT_DIR / "index.json"
 SOURCE_LABEL = "Ministry of Justice / Civil Procedure Rules"
 

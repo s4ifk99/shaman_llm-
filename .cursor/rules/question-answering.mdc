@@ -1,0 +1,54 @@
+---
+description: Question answering workflow — wiki-first, cite sources, update wiki gaps
+alwaysApply: true
+---
+
+# Question answering
+
+Full instructions: [AGENTS.md](AGENTS.md#wiki-first-policy)
+
+## Wiki-first policy
+
+The wiki is the **system of record**. Do not re-analyse `~/Projects/legal_shaman/raw` when equivalent information already exists in `~/Projects/legal_shaman/wiki`.
+
+**Preferred:**
+```
+Question → Wiki Search → Answer
+```
+
+**Only when necessary:**
+```
+Question → Wiki Search → Raw Sources → Wiki Update → Answer
+```
+
+After consulting raw sources, update the wiki so the next answer uses the preferred path.
+
+## Workflow
+
+1. Search the wiki first.
+2. Prefer wiki content over raw documents.
+3. **Full answer in wiki** — answer from wiki; cite wiki pages and underlying sources.
+4. **Partial answer in wiki** — answer from available wiki content; note gaps; search `~/Projects/legal_shaman/raw/` if needed; update wiki with new findings.
+5. **No wiki answer** — search approved sources in `~/Projects/legal_shaman/raw/`; create/update wiki pages; answer; cite sources.
+6. Never use unsupported assumptions.
+7. **Conflicting sources** — cite each source, explain the difference, log in `logs/conflict-report.md`.
+
+## Required response sections
+
+Every answer must include:
+
+```markdown
+## Answer
+
+## Relevant Wiki Pages
+
+## Source Documents
+```
+
+Use `[[Page Name]]` for wiki links. Cite raw files as `~/Projects/legal_shaman/raw/source-folder/filename.md` with source name and URL from frontmatter.
+
+## Example trace
+
+Question: *Can my landlord evict me with a Section 21 notice?*
+
+Search: wiki → Housing → Eviction → Section 21 → answer from wiki → cite `[[Housing]]`, `[[Section 21]]`, and underlying Citizens Advice / Shelter / GOV.UK sources.

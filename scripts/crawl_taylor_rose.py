@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Crawl Lawhive Knowledge Hub pages and save as Markdown."""
+"""Crawl Taylor Rose Insights articles and save as Markdown."""
 
 from __future__ import annotations
 
@@ -20,11 +20,10 @@ from pathlib import Path
 
 from project_paths import LOGS_DIR, RAW_DIR
 
-BASE_URL = "https://lawhive.co.uk"
-START_URL = f"{BASE_URL}/knowledge-hub"
-SITEMAP_URL = f"{BASE_URL}/sitemap/GB.xml"
-OUTPUT_DIR = RAW_DIR / "lawhive"
-LOG_PATH = LOGS_DIR / "lawhive-crawl-report.md"
+BASE_URL = "https://www.taylor-rose.co.uk"
+START_URL = f"{BASE_URL}/insights"
+OUTPUT_DIR = RAW_DIR / "taylor-rose"
+LOG_PATH = LOGS_DIR / "taylor-rose-crawl-report.md"
 INDEX_PATH = OUTPUT_DIR / "index.json"
 
 USER_AGENT = "LegalShamanObsidianCrawler/1.0 (+local research; respects robots.txt)"
@@ -33,28 +32,37 @@ REQUEST_TIMEOUT_SEC = 30
 MAX_RETRIES = 6
 RETRY_BASE_DELAY_SEC = 10.0
 
-ALLOWED_PREFIX = "/knowledge-hub"
-SECTION_LABEL = "Knowledge Hub"
+SECTION_LABEL = "Insights"
+POST_PREFIX = "/posts/"
 
-EXCLUDED_SEGMENTS = frozenset(
-    {
-        "pricing",
-        "contact",
-        "login",
-        "account",
-        "booking",
-        "search",
-        "tag",
-        "tags",
-        "intake",
-        "onboarding",
-        "api",
-    }
-)
+SKIP_TITLE_PATTERNS = ("page not found", "404")
 
-SKIP_TITLE_PATTERNS = (
-    "page not found",
-    "404",
+TOPIC_KEYWORDS: tuple[tuple[str, str], ...] = (
+    ("family", "Family Law"),
+    ("divorce", "Family Law"),
+    ("cohabitation", "Family Law"),
+    ("prenuptial", "Family Law"),
+    ("child maintenance", "Family Law"),
+    ("probate", "Private Client"),
+    ("will", "Private Client"),
+    ("trust", "Private Client"),
+    ("estate", "Private Client"),
+    ("inheritance", "Private Client"),
+    ("conveyancing", "Property"),
+    ("lease", "Property"),
+    ("leasehold", "Property"),
+    ("buyer", "Property"),
+    ("property", "Property"),
+    ("employment", "Employment Law"),
+    ("immigration", "Immigration"),
+    ("personal injury", "Personal Injury"),
+    ("medical negligence", "Medical Negligence"),
+    ("commercial", "Commercial Litigation"),
+    ("litigation", "Commercial Litigation"),
+    ("corporate", "Corporate"),
+    ("construction", "Construction law"),
+    ("insolvency", "Business law"),
+    ("crime", "Business crime and regulatory"),
 )
 
 
@@ -138,84 +146,57 @@ def normalize_url(url: str, base: str = BASE_URL) -> str | None:
     parsed = urllib.parse.urlparse(urllib.parse.urljoin(base, url))
     if parsed.scheme and parsed.scheme not in ("http", "https"):
         return None
-    if any(ord(ch) < 32 for ch in parsed.path):
-        return None
-    if " " in parsed.path:
-        return None
-    if parsed.path.lower().endswith(".pdf"):
-        return None
-
     host = parsed.netloc.lower()
-    if host and host not in ("lawhive.co.uk", "www.lawhive.co.uk"):
+    if host and host not in ("taylor-rose.co.uk", "www.taylor-rose.co.uk"):
         return None
 
     path = parsed.path or "/"
     path = re.sub(r"/+", "/", path)
-    if not path.startswith("/"):
-        path = "/" + path
     if path != "/" and path.endswith("/"):
         path = path.rstrip("/")
-
-    return urllib.parse.urlunparse(("https", "lawhive.co.uk", path, "", "", ""))
-
-
-def is_allowed_url(url: str) -> bool:
-    parsed = urllib.parse.urlparse(url)
-    path = parsed.path
-
-    if not (path == ALLOWED_PREFIX or path.startswith(f"{ALLOWED_PREFIX}/")):
-        return False
-
-    segments = [segment.lower() for segment in path.split("/") if segment]
-    return not any(segment in EXCLUDED_SEGMENTS for segment in segments)
+    # Percent-encode non-ASCII path characters for reliable fetching
+    if any(ord(ch) > 127 for ch in path):
+        parts = path.split("/")
+        path = "/".join(urllib.parse.quote(urllib.parse.unquote(p), safe="") for p in parts)
+    return urllib.parse.urlunparse(("https", "www.taylor-rose.co.uk", path, "", "", ""))
 
 
-def topic_from_url(url: str) -> str:
-    path = urllib.parse.urlparse(url).path.strip("/")
-    parts = path.split("/")
-    if len(parts) >= 2 and parts[0] == "knowledge-hub":
-        return parts[1].replace("-", " ").title()
-    return ""
+def is_post_url(url: str) -> bool:
+    path = urllib.parse.urlparse(url).path
+    return path.startswith(POST_PREFIX) and path != POST_PREFIX.rstrip("/")
 
 
-def discover_from_sitemap() -> set[str]:
-    _, _, xml_text = fetch_url(SITEMAP_URL)
-    root = ET.fromstring(xml_text)
-    ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
-    urls: set[str] = set()
-    for loc in root.findall(".//sm:loc", ns):
-        if not loc.text:
-            continue
-        normalized = normalize_url(loc.text.strip())
-        if normalized and is_allowed_url(normalized):
-            urls.add(normalized)
-    return urls
-
-
-def discover_from_page(url: str, html: str) -> set[str]:
+def discover_from_insights_page(html: str, base_url: str) -> set[str]:
     parser = LinkExtractor()
     parser.feed(html)
     found: set[str] = set()
     for href in parser.links:
-        normalized = normalize_url(href, base=url)
-        if normalized and is_allowed_url(normalized):
+        normalized = normalize_url(href, base=base_url)
+        if normalized and is_post_url(normalized):
             found.add(normalized)
     return found
 
 
-def discover_all_urls() -> list[str]:
-    urls: set[str] = {START_URL}
-    try:
-        urls |= discover_from_sitemap()
-    except Exception as exc:  # noqa: BLE001
-        print(f"Warning: sitemap discovery failed: {exc}", file=sys.stderr)
+def total_insights_pages(html: str) -> int:
+    match = re.search(r'total_pages(?:&quot;|"):\s*(\d+)', html)
+    if match:
+        return int(match.group(1))
+    return 1
 
-    try:
-        _, final_url, html = fetch_url(START_URL)
-        urls |= discover_from_page(final_url, html)
+
+def discover_insights_posts() -> list[str]:
+    urls: set[str] = set()
+    _, final_url, first_html = fetch_url(START_URL)
+    urls |= discover_from_insights_page(first_html, final_url)
+    pages = total_insights_pages(first_html)
+    time.sleep(REQUEST_DELAY_SEC)
+
+    for page in range(2, pages + 1):
+        page_url = f"{START_URL}?pg={page}"
+        print(f"Discovering page {page}/{pages}...")
+        _, final, html = fetch_url(page_url)
+        urls |= discover_from_insights_page(html, final)
         time.sleep(REQUEST_DELAY_SEC)
-    except Exception as exc:  # noqa: BLE001
-        print(f"Warning: hub link discovery failed: {exc}", file=sys.stderr)
 
     return sorted(urls)
 
@@ -234,10 +215,7 @@ def parse_json_ld_blocks(html: str) -> list[dict]:
         if isinstance(data, list):
             blocks.extend(item for item in data if isinstance(item, dict))
         elif isinstance(data, dict):
-            if "@graph" in data and isinstance(data["@graph"], list):
-                blocks.extend(item for item in data["@graph"] if isinstance(item, dict))
-            else:
-                blocks.append(data)
+            blocks.append(data)
     return blocks
 
 
@@ -246,6 +224,13 @@ def json_ld_type(data: dict) -> str:
     if isinstance(value, list):
         return value[0] if value else ""
     return str(value)
+
+
+def extract_article_ld(html: str) -> dict | None:
+    for block in parse_json_ld_blocks(html):
+        if json_ld_type(block) == "Article":
+            return block
+    return None
 
 
 def extract_canonical(html: str) -> str:
@@ -258,53 +243,29 @@ def extract_canonical(html: str) -> str:
 def extract_title(html: str, article_ld: dict | None = None) -> str:
     if article_ld and article_ld.get("headline"):
         return unescape(str(article_ld["headline"])).strip()
-
-    match = re.search(r'<meta[^>]+property="og:title"[^>]+content="([^"]+)"', html, re.IGNORECASE)
+    match = re.search(r"<h1[^>]*>(.*?)</h1>", html, re.IGNORECASE | re.DOTALL)
     if match:
-        title = unescape(match.group(1)).strip()
-        if title.endswith(" | Lawhive"):
-            title = title[: -len(" | Lawhive")].strip()
-        return title
-
-    match = re.search(r"<title>([^<]+)</title>", html, re.IGNORECASE)
-    if match:
-        title = unescape(match.group(1)).strip()
-        if title.endswith(" | Lawhive"):
-            title = title[: -len(" | Lawhive")].strip()
-        return title
+        return unescape(re.sub(r"<[^>]+>", "", match.group(1))).strip()
     return ""
 
 
-def extract_breadcrumb_topic(html: str) -> str:
-    for block in parse_json_ld_blocks(html):
-        if json_ld_type(block) != "BreadcrumbList":
-            continue
-        items = block.get("itemListElement", [])
-        if not isinstance(items, list):
-            continue
-        names: list[str] = []
-        for item in items:
-            if isinstance(item, dict) and item.get("name"):
-                names.append(unescape(str(item["name"])).strip())
-        filtered = [name for name in names if name.lower() != "knowledge hub"]
-        if len(filtered) >= 2:
-            return filtered[-2]
-        if filtered:
-            return filtered[-1]
+def extract_author(article_ld: dict | None) -> str:
+    if not article_ld:
+        return ""
+    author = article_ld.get("author")
+    if isinstance(author, dict) and author.get("name"):
+        return unescape(str(author["name"])).strip()
+    if isinstance(author, str):
+        return unescape(author).strip()
     return ""
 
 
-def extract_author(html: str, article_ld: dict | None = None) -> str:
-    if article_ld:
-        author = article_ld.get("author")
-        if isinstance(author, dict) and author.get("name"):
-            return unescape(str(author["name"])).strip()
-        if isinstance(author, str):
-            return unescape(author).strip()
-
-    match = re.search(r'<meta[^>]+name="author"[^>]+content="([^"]+)"', html, re.IGNORECASE)
-    if match:
-        return unescape(match.group(1)).strip()
+def extract_author_job(article_ld: dict | None) -> str:
+    if not article_ld:
+        return ""
+    author = article_ld.get("author")
+    if isinstance(author, dict) and author.get("jobTitle"):
+        return unescape(str(author["jobTitle"])).strip()
     return ""
 
 
@@ -312,65 +273,57 @@ def format_date(value: str) -> str:
     value = value.strip()
     if not value:
         return ""
-    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
-        return value
     match = re.match(r"(\d{4}-\d{2}-\d{2})", value)
     if match:
         return match.group(1)
     return value
 
 
-def extract_dates(html: str, article_ld: dict | None = None) -> tuple[str, str]:
-    published = ""
-    updated = ""
-
-    if article_ld:
-        published = format_date(str(article_ld.get("datePublished", "")))
-        updated = format_date(str(article_ld.get("dateModified", "")))
-
-    if not published:
-        match = re.search(
-            r'property="article:published_time"[^>]+content="([^"]+)"',
-            html,
-            re.IGNORECASE,
-        )
-        if match:
-            published = format_date(unescape(match.group(1)))
-
-    if not updated:
-        match = re.search(
-            r'property="article:modified_time"[^>]+content="([^"]+)"',
-            html,
-            re.IGNORECASE,
-        )
-        if match:
-            updated = format_date(unescape(match.group(1)))
-
+def extract_dates(article_ld: dict | None) -> tuple[str, str]:
+    if not article_ld:
+        return "", ""
+    published = format_date(str(article_ld.get("datePublished", "")))
+    updated = format_date(str(article_ld.get("dateModified", "")))
     return published, updated
 
 
-def extract_article_ld(html: str) -> dict | None:
-    for block in parse_json_ld_blocks(html):
-        block_type = json_ld_type(block)
-        if block_type in {"Article", "BlogPosting", "NewsArticle"}:
-            return block
-    return None
+def article_section(article_ld: dict | None) -> str:
+    if not article_ld:
+        return ""
+    return unescape(str(article_ld.get("articleSection", ""))).strip()
+
+
+def infer_topic(title: str, slug: str, author_job: str) -> str:
+    haystack = f"{title} {slug} {author_job}".lower()
+    for keyword, topic in TOPIC_KEYWORDS:
+        if keyword in haystack:
+            return topic
+    if author_job:
+        for keyword, topic in TOPIC_KEYWORDS:
+            if keyword in author_job.lower():
+                return topic
+    return "Insights"
 
 
 def extract_article_html(html: str) -> str:
-    match = re.search(r"<article[^>]*>(.*?)</article>", html, re.IGNORECASE | re.DOTALL)
+    start = html.find('id="sec_0"')
+    end = html.find('id="sec_author"')
+    if start == -1:
+        match = re.search(r'<div class="cms-block">', html)
+        if not match:
+            return ""
+        start = match.start()
+    if end == -1:
+        end = len(html)
+    chunk = html[start:end]
+    match = re.search(r'<div class="cms-block">(.*)', chunk, re.IGNORECASE | re.DOTALL)
     if not match:
-        return ""
-
-    article = match.group(1)
-    removals = [
-        r'<section[^>]*>.*?More articles about.*?</section>',
-        r"<script[^>]*>.*?</script>",
-        r"<style[^>]*>.*?</style>",
-    ]
-    for pattern in removals:
-        article = re.sub(pattern, "", article, flags=re.IGNORECASE | re.DOTALL)
-    return article.strip()
+        return chunk
+    body = match.group(1)
+    body = re.sub(r"</div>\s*</div>\s*$", "", body.strip(), flags=re.DOTALL)
+    body = re.sub(r"<script[^>]*>.*?</script>", "", body, flags=re.IGNORECASE | re.DOTALL)
+    body = re.sub(r"<style[^>]*>.*?</style>", "", body, flags=re.IGNORECASE | re.DOTALL)
+    return body.strip()
 
 
 def is_error_page(title: str) -> bool:
@@ -378,10 +331,29 @@ def is_error_page(title: str) -> bool:
     return any(pattern in lowered for pattern in SKIP_TITLE_PATTERNS)
 
 
+def clean_markdown(md: str) -> str:
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    md = re.sub(r"[ \t]+\n", "\n", md)
+    cut_markers = (
+        "Cookies at taylor-rose.co.uk",
+        "We use cookies to provide",
+        "Essential Cookies",
+        "Your Name",
+        "Send Enquiry",
+        "Get Practical Legal Updates",
+        "Manage cookies",
+    )
+    for marker in cut_markers:
+        pos = md.find(marker)
+        if pos > 0:
+            md = md[:pos].rstrip()
+    md = re.sub(r"\n{3,}", "\n\n", md)
+    return md.strip()
+
+
 def html_to_markdown(html: str) -> str:
     if not html:
         return ""
-
     proc = subprocess.run(
         ["html2text", "--body-width", "0", "--ignore-emphasis"],
         input=html,
@@ -391,14 +363,8 @@ def html_to_markdown(html: str) -> str:
     )
     if proc.returncode != 0:
         text = re.sub(r"<[^>]+>", "", html)
-        return unescape(re.sub(r"\n{3,}", "\n\n", text)).strip()
-
-    md = proc.stdout.strip()
-    md = re.sub(r"\n{3,}", "\n\n", md)
-    md = re.sub(r"[ \t]+\n", "\n", md)
-    md = re.sub(r"^More articles about.*$", "", md, flags=re.MULTILINE)
-    md = re.sub(r"\n{3,}", "\n\n", md)
-    return md.strip()
+        return clean_markdown(unescape(re.sub(r"\n{3,}", "\n\n", text)))
+    return clean_markdown(proc.stdout.strip())
 
 
 def slugify(value: str, max_len: int = 80) -> str:
@@ -407,11 +373,11 @@ def slugify(value: str, max_len: int = 80) -> str:
 
 
 def make_filename(topic: str, title: str, canonical_url: str, used: set[str]) -> str:
-    topic_slug = slugify(topic) if topic else "knowledge-hub"
+    topic_slug = slugify(topic) if topic else "insights"
     title_slug = slugify(title)
     if not title_slug:
         path = urllib.parse.urlparse(canonical_url).path.strip("/")
-        title_slug = slugify(path.replace("knowledge-hub/", "").replace("/", "-"))
+        title_slug = slugify(path.replace("posts/", ""))
     base = f"{topic_slug}-{title_slug}"
     candidate = base
     counter = 2
@@ -445,7 +411,7 @@ def build_markdown(
     frontmatter = "\n".join(
         [
             "---",
-            "source: Lawhive",
+            "source: Taylor Rose",
             f"url: {yaml_escape(url)}",
             f"title: {yaml_escape(title)}",
             f"section: {yaml_escape(section)}",
@@ -457,15 +423,14 @@ def build_markdown(
             "---",
         ]
     )
-    return f"{frontmatter}\n\n{body}\n"
+    return f"{frontmatter}\n\n# {title}\n\n{body}\n"
 
 
 def write_report(stats: CrawlStats, started_at: datetime, finished_at: datetime) -> None:
     LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
     duration = (finished_at - started_at).total_seconds()
-
     lines = [
-        "# Lawhive crawl report",
+        "# Taylor Rose crawl report",
         "",
         f"- **Started:** {started_at.isoformat()}",
         f"- **Finished:** {finished_at.isoformat()}",
@@ -483,25 +448,15 @@ def write_report(stats: CrawlStats, started_at: datetime, finished_at: datetime)
         f"- Errors: {len(stats.errors)}",
         "",
     ]
-
     if stats.errors:
         lines.extend(["## Errors", ""])
         for err in stats.errors:
             lines.append(f"- {err}")
         lines.append("")
-
     lines.extend(["## Saved pages", ""])
     for page in stats.pages:
         if page.status == "saved":
             lines.append(f"- [{page.title}]({page.file}) — `{page.canonical_url}`")
-
-    if stats.skipped or stats.duplicates:
-        lines.extend(["", "## Skipped pages", ""])
-        for page in stats.pages:
-            if page.status in {"skipped", "duplicate"}:
-                reason = page.error or page.status
-                lines.append(f"- `{page.url}` — {reason}")
-
     LOG_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -509,13 +464,12 @@ def crawl() -> CrawlStats:
     started_at = datetime.now(timezone.utc)
     crawl_date = date.today().isoformat()
     stats = CrawlStats()
-
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    print("Discovering URLs...")
-    urls = discover_all_urls()
+    print("Discovering insights posts...")
+    urls = discover_insights_posts()
     stats.discovered = len(urls)
-    print(f"Discovered {len(urls)} URLs under /knowledge-hub")
+    print(f"Discovered {len(urls)} insights posts")
 
     index_entries: list[dict[str, str]] = []
     seen_canonical: dict[str, str] = {}
@@ -523,7 +477,6 @@ def crawl() -> CrawlStats:
 
     for i, url in enumerate(urls, start=1):
         print(f"[{i}/{len(urls)}] {url}")
-
         try:
             status_code, final_url, html = fetch_url(url)
             stats.fetched += 1
@@ -536,53 +489,44 @@ def crawl() -> CrawlStats:
 
             if canonical in seen_canonical:
                 stats.duplicates += 1
+                continue
+
+            article_ld = extract_article_ld(html)
+            section = article_section(article_ld)
+            if section and section.lower() != "insights":
+                stats.skipped += 1
                 stats.pages.append(
                     PageRecord(
                         url=final_url,
                         canonical_url=canonical,
                         title="",
-                        section=SECTION_LABEL,
+                        section=section,
                         topic="",
                         author="",
                         date_published="",
                         last_updated="",
                         crawl_date=crawl_date,
                         file="",
-                        status="duplicate",
-                        error=f"duplicate of {seen_canonical[canonical]}",
+                        status="skipped",
+                        error=f"articleSection={section}",
                     )
                 )
                 continue
 
-            article_ld = extract_article_ld(html)
             title = extract_title(html, article_ld)
-            topic = extract_breadcrumb_topic(html) or topic_from_url(canonical)
-            author = extract_author(html, article_ld)
-            date_published, last_updated = extract_dates(html, article_ld)
+            author = extract_author(article_ld)
+            author_job = extract_author_job(article_ld)
+            date_published, last_updated = extract_dates(article_ld)
+            slug = urllib.parse.urlparse(canonical).path.rsplit("/", 1)[-1]
+            topic = infer_topic(title, slug, author_job)
             article_html = extract_article_html(html)
             markdown_body = html_to_markdown(article_html)
 
             if status_code >= 400 or is_error_page(title):
                 stats.skipped += 1
-                stats.pages.append(
-                    PageRecord(
-                        url=final_url,
-                        canonical_url=canonical,
-                        title=title,
-                        section=SECTION_LABEL,
-                        topic=topic,
-                        author=author,
-                        date_published=date_published,
-                        last_updated=last_updated,
-                        crawl_date=crawl_date,
-                        file="",
-                        status="skipped",
-                        error="404 or error page",
-                    )
-                )
                 continue
 
-            if not markdown_body:
+            if not markdown_body or len(markdown_body) < 100:
                 stats.skipped += 1
                 stats.pages.append(
                     PageRecord(
@@ -638,7 +582,7 @@ def crawl() -> CrawlStats:
                 {
                     "title": title,
                     "url": canonical,
-                    "source": "Lawhive",
+                    "source": "Taylor Rose",
                     "section": SECTION_LABEL,
                     "topic": topic,
                     "author": author,
@@ -647,26 +591,6 @@ def crawl() -> CrawlStats:
                     "crawl_date": crawl_date,
                     "file": filename,
                 }
-            )
-        except urllib.error.HTTPError as exc:
-            stats.skipped += 1
-            msg = f"HTTP {exc.code} for {url}"
-            stats.errors.append(msg)
-            stats.pages.append(
-                PageRecord(
-                    url=url,
-                    canonical_url="",
-                    title="",
-                    section=SECTION_LABEL,
-                    topic="",
-                    author="",
-                    date_published="",
-                    last_updated="",
-                    crawl_date=crawl_date,
-                    file="",
-                    status="skipped",
-                    error=msg,
-                )
             )
         except Exception as exc:  # noqa: BLE001
             msg = f"{url}: {exc}"
@@ -693,7 +617,7 @@ def crawl() -> CrawlStats:
     INDEX_PATH.write_text(
         json.dumps(
             {
-                "source": "Lawhive",
+                "source": "Taylor Rose",
                 "crawl_date": crawl_date,
                 "start_url": START_URL,
                 "total_discovered": stats.discovered,

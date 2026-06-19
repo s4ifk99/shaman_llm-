@@ -1,0 +1,37 @@
+---
+description: Legal Shaman Wiki — core principles, folder layout, and Q&A rules
+alwaysApply: true
+---
+
+# Legal Shaman Wiki
+
+Full instructions: [AGENTS.md](AGENTS.md)
+
+## Folders
+
+Project root: **`~/Projects/legal_shaman`**
+
+- `~/Projects/legal_shaman/raw/` — crawled sources only; never edit manually (use `scripts/` crawlers)
+- `~/Projects/legal_shaman/wiki/` — generated knowledge pages
+- `~/Projects/legal_shaman/logs/` — ingestion, update, audit, conflict, and maintenance reports
+
+## Core rules
+
+1. The wiki is the system of record — do not re-read `~/Projects/legal_shaman/raw/` when `~/Projects/legal_shaman/wiki/` already has the answer.
+2. Preserve source meaning; do not invent legal advice or unsupported conclusions.
+3. Every factual claim must trace to source material with visible attribution.
+4. Update existing wiki pages before creating new ones; avoid duplicates.
+5. Use Obsidian links: `[[Page Name]]`
+6. If sources conflict, log in `logs/conflict-report.md` — do not pick silently.
+
+## Answering questions
+
+Wiki-first workflow with required response sections (Answer, Relevant Wiki Pages, Source Documents). See `question-answering.mdc` and [AGENTS.md](AGENTS.md#question-answering).
+
+## Ingestion workflow
+
+When processing new/changed `/raw` files: extract topics → update/create wiki pages → add backlinks → update `wiki/index.md` and `logs/ingestion-log.md`.
+
+## Daily updates
+
+Check indexed sources for new/updated/removed/redirected pages. Retired sources: mark retired, log removal, flag affected wiki pages — do not auto-delete wiki pages.

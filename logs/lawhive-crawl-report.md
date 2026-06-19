@@ -4,7 +4,7 @@
 - **Finished:** 2026-06-18T09:42:15.023899+00:00
 - **Duration:** 2939.2s
 - **Start URL:** https://lawhive.co.uk/knowledge-hub
-- **Output directory:** `/home/saif/Projects/shaman_LLM/raw/lawhive`
+- **Output directory:** `/home/saif/Projects/legal_shaman/raw/lawhive`
 
 ## Summary
 

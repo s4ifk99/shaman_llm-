@@ -18,6 +18,8 @@ from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
 
+from project_paths import LOGS_DIR, RAW_DIR
+
 BASE_URL = "https://www.citizensadvice.org.uk"
 START_URLS = (
     f"{BASE_URL}/about-us/information/consumer-education-resources/",
@@ -34,8 +36,8 @@ SITEMAP_URLS = (
     f"{BASE_URL}/sitemap/advice.xml",
     f"{BASE_URL}/sitemap/corporate.xml",
 )
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "raw" / "citizens-advice"
-LOG_PATH = Path(__file__).resolve().parent.parent / "logs" / "citizens-advice-crawl-report.md"
+OUTPUT_DIR = RAW_DIR / "citizens-advice"
+LOG_PATH = LOGS_DIR / "citizens-advice-crawl-report.md"
 INDEX_PATH = OUTPUT_DIR / "index.json"
 
 USER_AGENT = "LegalShamanObsidianCrawler/1.0 (+local research; respects robots.txt)"

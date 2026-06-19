@@ -1,0 +1,19 @@
+---
+description: Raw source files — read-only except via approved crawlers
+globs: raw/**/*
+alwaysApply: false
+---
+
+# Raw sources
+
+`~/Projects/legal_shaman/raw/` contains original crawled documents. **Do not modify manually.**
+
+Changes must go through approved crawlers in `scripts/`:
+
+- `crawl_citizens_advice.py` → `~/Projects/legal_shaman/raw/citizens-advice/`
+- `crawl_advicenow.py` → `~/Projects/legal_shaman/raw/advicenow/`
+- `crawl_cpr.py` → `~/Projects/legal_shaman/raw/cpr/`
+- `crawl_lawhive.py` → `~/Projects/legal_shaman/raw/lawhive/`
+- `crawl_taylor_rose.py` → `~/Projects/legal_shaman/raw/taylor-rose/` (Taylor Rose [Insights](https://www.taylor-rose.co.uk/insights))
+
+When reading raw files for wiki ingestion, use the YAML frontmatter (`source`, `url`, `title`, `crawl_date`) for attribution. Preserve source meaning when summarising into wiki pages.
