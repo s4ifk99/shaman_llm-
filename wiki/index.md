@@ -19,9 +19,12 @@ Source-grounded legal knowledge for first-point-of-contact signposting. All page
 | Citizens Advice | `raw/citizens-advice/` | 1009 |
 | Advicenow | `raw/advicenow/` | 275 |
 | Civil Procedure Rules | `raw/cpr/` | 259 |
-| Lawhive Knowledge Hub | `raw/lawhive/` | 825 |
+| Taylor Rose | `raw/taylor-rose/` | 290 | Ingested |
+| legislation.gov.uk (CrPR 2025) | `raw/legislation-govuk/` | 52 | Ingested |
+| Sentencing Council (magistrates) | `raw/sentencing-council/` | 242 | Ingested |
+| GOV.UK (British citizenship) | `raw/govuk/citizenship/` | 69 | Ingested |
 
-Planned sources: Law Centres, Shelter, GOV.UK, LawWorks, Advocate.
+Planned sources: Law Centres, Shelter, LawWorks, Advocate.
 
 ## Index pages
 

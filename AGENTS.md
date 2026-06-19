@@ -17,9 +17,11 @@ All wiki, raw, and log paths are relative to this directory. Crawlers in this re
 | Civil Procedure Rules | `raw/cpr/` | `scripts/crawl_cpr.py` | Active |
 | Lawhive Knowledge Hub | `raw/lawhive/` | `scripts/crawl_lawhive.py` | Active |
 | Taylor Rose | `raw/taylor-rose/` | `scripts/crawl_taylor_rose.py` | Active |
+| legislation.gov.uk | `raw/legislation-govuk/` | `scripts/crawl_legislation_govuk.py` | Active |
+| Sentencing Council | `raw/sentencing-council/` | `scripts/crawl_sentencing_council.py` | Active |
+| GOV.UK | `raw/govuk/` | `scripts/crawl_govuk.py` | Active |
 | Law Centres | `raw/law-centres/` | — | Planned |
 | Shelter | `raw/shelter/` | — | Planned |
-| GOV.UK | `raw/govuk/` | — | Planned |
 | LawWorks | `raw/lawworks/` | — | Planned |
 | Advocate | `raw/advocate/` | — | Planned |
 
@@ -79,14 +81,35 @@ Use `wiki/_page-template.md` as the starting point for new pages.
 | `wiki/courts/` | Courts, tribunals, hearings |
 | `wiki/regulations/` | Rules, practice directions, statutory references |
 
+## Wiki value-add policy
+
+The wiki is **not** a mirror of `/raw`. Do not bulk-create pages from crawled files.
+
+**Do not create a wiki page that:**
+- Only lists links to source documents
+- Contains truncated excerpts or survey junk from crawlers
+- Leaves internal/kernel links unprocessed (e.g. raw bullet nav like `* [Eviction](/housing/eviction/)`)
+- Duplicates source headings without extracted guidance
+
+**Create or update a wiki page only when you have:**
+1. Read the full source document (and followed internal links where they carry legal substance)
+2. Extracted rights, obligations, deadlines, and practical steps into plain language
+3. Synthesized **Summary**, **Key Information**, and **Practical Guidance** sections
+4. Visible source attribution for every factual claim
+
+**Bulk auto-ingestion is disabled.** Use `scripts/purge_wiki.py` to reset low-value pages. Build the wiki topic-by-topic with curated pages.
+
 ## Ingesting new `/raw` files
 
-1. Read all new or changed files in `/raw`.
-2. Extract legal topics, concepts, procedures, organisations, funding routes, rights, obligations, deadlines, and practical steps.
-3. Create or update pages under the wiki category directories above.
-4. Create backlinks between related concepts.
-5. Update `wiki/index.md`.
-6. Update `logs/ingestion-log.md`.
+1. Read new or changed files in `/raw` (and linked sources where needed).
+2. Extract legal topics, concepts, procedures, organisations, funding routes, rights, obligations, deadlines, and practical steps into **value-add wiki pages**.
+3. Resolve internal links — extract the information; do not paste link lists into the wiki.
+4. Create or update curated pages under the wiki category directories.
+5. Add backlinks between related concepts.
+6. Update `wiki/index.md`.
+7. Update `logs/ingestion-log.md`.
+
+Do **not** run bulk mirroring of raw files into the wiki.
 
 ## Daily update provision
 

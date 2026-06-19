@@ -19,9 +19,12 @@ SOURCE_ORGS = {
     "lawhive": "Lawhive Knowledge Hub",
     "cpr": "Civil Procedure Rules",
     "taylor-rose": "Taylor Rose",
+    "legislation-govuk": "legislation.gov.uk",
+    "sentencing-council": "Sentencing Council",
+    "govuk": "GOV.UK",
 }
 
-SOURCE_ORDER = ("advicenow", "citizens-advice", "lawhive", "cpr", "taylor-rose")
+SOURCE_ORDER = ("advicenow", "citizens-advice", "lawhive", "cpr", "taylor-rose", "legislation-govuk", "sentencing-council", "govuk")
 
 INVALID_CHARS = re.compile(r'[\\/:*?"<>|]')
 MULTI_SPACE = re.compile(r"\s+")

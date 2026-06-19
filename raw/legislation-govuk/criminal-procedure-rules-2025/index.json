@@ -1,0 +1,427 @@
+{
+  "instrument": "uksi/2025/909",
+  "title": "The Criminal Procedure Rules 2025",
+  "source": "legislation.gov.uk",
+  "base_url": "https://www.legislation.gov.uk/uksi/2025/909",
+  "crawl_date": "2026-06-20",
+  "last_updated": "",
+  "pages_saved": 52,
+  "pages": [
+    {
+      "url": "https://www.legislation.gov.uk/uksi/2025/909/introduction",
+      "title": "The Criminal Procedure Rules 2025 \u2014 Introductory Text",
+      "part_number": "",
+      "section": "introduction",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/introduction.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/1",
+      "title": "PART 1 \u2014 THE OVERRIDING OBJECTIVE",
+      "part_number": "1",
+      "section": "THE OVERRIDING OBJECTIVE",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-01-the-overriding-objective.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/2",
+      "title": "PART 2 \u2014 UNDERSTANDING AND APPLYING THE RULES; POWERS AND DUTIES OF COURT OFFICERS AND JUSTICES\u2019 LEGAL ADVISERS",
+      "part_number": "2",
+      "section": "UNDERSTANDING AND APPLYING THE RULES; POWERS AND DUTIES OF COURT OFFICERS AND JUSTICES\u2019 LEGAL ADVISERS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-02-understanding-and-applying-the-rules-powers-and-duties-of-court-officers-and-jus.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/3",
+      "title": "PART 3 \u2014 CASE MANAGEMENT",
+      "part_number": "3",
+      "section": "CASE MANAGEMENT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-03-case-management.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/4",
+      "title": "PART 4 \u2014 SERVICE OF DOCUMENTS",
+      "part_number": "4",
+      "section": "SERVICE OF DOCUMENTS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-04-service-of-documents.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/5",
+      "title": "PART 5 \u2014 FORMS AND COURT RECORDS",
+      "part_number": "5",
+      "section": "FORMS AND COURT RECORDS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-05-forms-and-court-records.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/6",
+      "title": "PART 6 \u2014 REPORTING, ETC. RESTRICTIONS",
+      "part_number": "6",
+      "section": "REPORTING, ETC. RESTRICTIONS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-06-reporting-etc-restrictions.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/7",
+      "title": "PART 7 \u2014 STARTING A PROSECUTION IN A MAGISTRATES\u2019 COURT",
+      "part_number": "7",
+      "section": "STARTING A PROSECUTION IN A MAGISTRATES\u2019 COURT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-07-starting-a-prosecution-in-a-magistrates-court.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/8",
+      "title": "PART 8 \u2014 INITIAL DETAILS OF THE PROSECUTION CASE",
+      "part_number": "8",
+      "section": "INITIAL DETAILS OF THE PROSECUTION CASE",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-08-initial-details-of-the-prosecution-case.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/9",
+      "title": "PART 9 \u2014 ALLOCATION AND SENDING FOR TRIAL",
+      "part_number": "9",
+      "section": "ALLOCATION AND SENDING FOR TRIAL",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-09-allocation-and-sending-for-trial.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/10",
+      "title": "PART 10 \u2014 THE INDICTMENT",
+      "part_number": "10",
+      "section": "THE INDICTMENT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-10-the-indictment.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/11",
+      "title": "PART 11 \u2014 DEFERRED PROSECUTION AGREEMENTS",
+      "part_number": "11",
+      "section": "DEFERRED PROSECUTION AGREEMENTS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-11-deferred-prosecution-agreements.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/12",
+      "title": "PART 12 \u2014 DISCONTINUING A PROSECUTION",
+      "part_number": "12",
+      "section": "DISCONTINUING A PROSECUTION",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-12-discontinuing-a-prosecution.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/13",
+      "title": "PART 13 \u2014 WARRANTS FOR ARREST, DETENTION OR IMPRISONMENT",
+      "part_number": "13",
+      "section": "WARRANTS FOR ARREST, DETENTION OR IMPRISONMENT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-13-warrants-for-arrest-detention-or-imprisonment.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/14",
+      "title": "PART 14 \u2014 BAIL AND CUSTODY TIME LIMITS",
+      "part_number": "14",
+      "section": "BAIL AND CUSTODY TIME LIMITS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-14-bail-and-custody-time-limits.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/15",
+      "title": "PART 15 \u2014 DISCLOSURE",
+      "part_number": "15",
+      "section": "DISCLOSURE",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-15-disclosure.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/16",
+      "title": "PART 16 \u2014 WRITTEN WITNESS STATEMENTS",
+      "part_number": "16",
+      "section": "WRITTEN WITNESS STATEMENTS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-16-written-witness-statements.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/17",
+      "title": "PART 17 \u2014 WITNESS SUMMONSES, WARRANTS AND ORDERS",
+      "part_number": "17",
+      "section": "WITNESS SUMMONSES, WARRANTS AND ORDERS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-17-witness-summonses-warrants-and-orders.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/18",
+      "title": "PART 18 \u2014 MEASURES TO HELP A WITNESS OR DEFENDANT TO GIVE EVIDENCE OR OTHERWISE PARTICIPATE",
+      "part_number": "18",
+      "section": "MEASURES TO HELP A WITNESS OR DEFENDANT TO GIVE EVIDENCE OR OTHERWISE PARTICIPATE",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-18-measures-to-help-a-witness-or-defendant-to-give-evidence-or-otherwise-icipate.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/19",
+      "title": "PART 19 \u2014 EXPERT EVIDENCE",
+      "part_number": "19",
+      "section": "EXPERT EVIDENCE",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-19-expert-evidence.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/20",
+      "title": "PART 20 \u2014 HEARSAY EVIDENCE",
+      "part_number": "20",
+      "section": "HEARSAY EVIDENCE",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-20-hearsay-evidence.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/21",
+      "title": "PART 21 \u2014 EVIDENCE OF BAD CHARACTER",
+      "part_number": "21",
+      "section": "EVIDENCE OF BAD CHARACTER",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-21-evidence-of-bad-character.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/22",
+      "title": "PART 22 \u2014 EVIDENCE OF A COMPLAINANT\u2019S PREVIOUS SEXUAL BEHAVIOUR",
+      "part_number": "22",
+      "section": "EVIDENCE OF A COMPLAINANT\u2019S PREVIOUS SEXUAL BEHAVIOUR",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-22-evidence-of-a-complainant-s-previous-sexual-behaviour.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/23",
+      "title": "PART 23 \u2014 RESTRICTION ON CROSS-EXAMINATION BY A DEFENDANT",
+      "part_number": "23",
+      "section": "RESTRICTION ON CROSS-EXAMINATION BY A DEFENDANT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-23-restriction-on-cross-examination-by-a-defendant.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/24",
+      "title": "PART 24 \u2014 TRIAL AND SENTENCE IN A MAGISTRATES\u2019 COURT",
+      "part_number": "24",
+      "section": "TRIAL AND SENTENCE IN A MAGISTRATES\u2019 COURT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-24-trial-and-sentence-in-a-magistrates-court.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/25",
+      "title": "PART 25 \u2014 TRIAL AND SENTENCE IN THE CROWN COURT",
+      "part_number": "25",
+      "section": "TRIAL AND SENTENCE IN THE CROWN COURT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-25-trial-and-sentence-in-the-crown-court.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/26",
+      "title": "PART 26 \u2014 JURORS",
+      "part_number": "26",
+      "section": "JURORS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-26-jurors.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/27",
+      "title": "PART 27 \u2014 RETRIAL AFTER ACQUITTAL",
+      "part_number": "27",
+      "section": "RETRIAL AFTER ACQUITTAL",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-27-retrial-after-acquittal.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/28",
+      "title": "PART 28 \u2014 SENTENCING PROCEDURES IN SPECIAL CASES AND ON COMMITTAL FOR SENTENCE, ETC.",
+      "part_number": "28",
+      "section": "SENTENCING PROCEDURES IN SPECIAL CASES AND ON COMMITTAL FOR SENTENCE, ETC.",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-28-sentencing-procedures-in-special-cases-and-on-committal-for-sentence-etc.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/29",
+      "title": "PART 29 \u2014 ROAD TRAFFIC PENALTIES",
+      "part_number": "29",
+      "section": "ROAD TRAFFIC PENALTIES",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-29-road-traffic-penalties.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/30",
+      "title": "PART 30 \u2014 ENFORCEMENT OF FINES AND OTHER ORDERS FOR PAYMENT",
+      "part_number": "30",
+      "section": "ENFORCEMENT OF FINES AND OTHER ORDERS FOR PAYMENT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-30-enforcement-of-fines-and-other-orders-for-payment.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/31",
+      "title": "PART 31 \u2014 BEHAVIOUR ORDERS",
+      "part_number": "31",
+      "section": "BEHAVIOUR ORDERS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-31-behaviour-orders.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/32",
+      "title": "PART 32 \u2014 BREACH, REVOCATION AND AMENDMENT OF COMMUNITY AND OTHER ORDERS",
+      "part_number": "32",
+      "section": "BREACH, REVOCATION AND AMENDMENT OF COMMUNITY AND OTHER ORDERS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-32-breach-revocation-and-amendment-of-community-and-other-orders.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/33",
+      "title": "PART 33 \u2014 CONFISCATION AND RELATED PROCEEDINGS",
+      "part_number": "33",
+      "section": "CONFISCATION AND RELATED PROCEEDINGS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-33-confiscation-and-related-proceedings.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/34",
+      "title": "PART 34 \u2014 APPEAL TO THE CROWN COURT",
+      "part_number": "34",
+      "section": "APPEAL TO THE CROWN COURT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-34-appeal-to-the-crown-court.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/35",
+      "title": "PART 35 \u2014 APPEAL TO THE HIGH COURT BY CASE STATED",
+      "part_number": "35",
+      "section": "APPEAL TO THE HIGH COURT BY CASE STATED",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-35-appeal-to-the-high-court-by-case-stated.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/36",
+      "title": "PART 36 \u2014 APPEAL TO THE COURT OF APPEAL: GENERAL RULES",
+      "part_number": "36",
+      "section": "APPEAL TO THE COURT OF APPEAL: GENERAL RULES",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-36-appeal-to-the-court-of-appeal-general-rules.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/37",
+      "title": "PART 37 \u2014 APPEAL TO THE COURT OF APPEAL AGAINST RULING AT PREPARATORY HEARING OR IN RESPONSE TO JURY TAMPERING",
+      "part_number": "37",
+      "section": "APPEAL TO THE COURT OF APPEAL AGAINST RULING AT PREPARATORY HEARING OR IN RESPONSE TO JURY TAMPERING",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-37-appeal-to-the-court-of-appeal-against-ruling-at-preparatory-hearing-or-in-respon.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/38",
+      "title": "PART 38 \u2014 APPEAL TO THE COURT OF APPEAL AGAINST RULING ADVERSE TO PROSECUTION",
+      "part_number": "38",
+      "section": "APPEAL TO THE COURT OF APPEAL AGAINST RULING ADVERSE TO PROSECUTION",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-38-appeal-to-the-court-of-appeal-against-ruling-adverse-to-prosecution.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/39",
+      "title": "PART 39 \u2014 APPEAL TO THE COURT OF APPEAL ABOUT CONVICTION OR SENTENCE",
+      "part_number": "39",
+      "section": "APPEAL TO THE COURT OF APPEAL ABOUT CONVICTION OR SENTENCE",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-39-appeal-to-the-court-of-appeal-about-conviction-or-sentence.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/40",
+      "title": "PART 40 \u2014 APPEAL TO THE COURT OF APPEAL ABOUT REPORTING OR PUBLIC ACCESS RESTRICTION",
+      "part_number": "40",
+      "section": "APPEAL TO THE COURT OF APPEAL ABOUT REPORTING OR PUBLIC ACCESS RESTRICTION",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-40-appeal-to-the-court-of-appeal-about-reporting-or-public-access-restriction.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/41",
+      "title": "PART 41 \u2014 REFERENCE TO THE COURT OF APPEAL OF POINT OF LAW OR UNDULY LENIENT SENTENCING",
+      "part_number": "41",
+      "section": "REFERENCE TO THE COURT OF APPEAL OF POINT OF LAW OR UNDULY LENIENT SENTENCING",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-41-reference-to-the-court-of-appeal-of-point-of-law-or-unduly-lenient-sentencing.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/42",
+      "title": "PART 42 \u2014 APPEAL TO THE COURT OF APPEAL IN CONFISCATION AND RELATED PROCEEDINGS",
+      "part_number": "42",
+      "section": "APPEAL TO THE COURT OF APPEAL IN CONFISCATION AND RELATED PROCEEDINGS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-42-appeal-to-the-court-of-appeal-in-confiscation-and-related-proceedings.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/43",
+      "title": "PART 43 \u2014 APPEAL OR REFERENCE TO THE SUPREME COURT",
+      "part_number": "43",
+      "section": "APPEAL OR REFERENCE TO THE SUPREME COURT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-43-appeal-or-reference-to-the-supreme-court.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/44",
+      "title": "PART 44 \u2014 REOPENING A CASE IN A MAGISTRATES\u2019 COURT",
+      "part_number": "44",
+      "section": "REOPENING A CASE IN A MAGISTRATES\u2019 COURT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-44-reopening-a-case-in-a-magistrates-court.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/45",
+      "title": "PART 45 \u2014 COSTS",
+      "part_number": "45",
+      "section": "COSTS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-45-costs.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/46",
+      "title": "PART 46 \u2014 REPRESENTATIVES",
+      "part_number": "46",
+      "section": "REPRESENTATIVES",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-46-representatives.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/47",
+      "title": "PART 47 \u2014 INVESTIGATION ORDERS AND WARRANTS",
+      "part_number": "47",
+      "section": "INVESTIGATION ORDERS AND WARRANTS",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-47-investigation-orders-and-warrants.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/48",
+      "title": "PART 48 \u2014 CONTEMPT OF COURT",
+      "part_number": "48",
+      "section": "CONTEMPT OF COURT",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-48-contempt-of-court.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/49",
+      "title": "PART 49 \u2014 INTERNATIONAL CO-OPERATION",
+      "part_number": "49",
+      "section": "INTERNATIONAL CO-OPERATION",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-49-international-co-operation.md",
+      "status": "saved"
+    },
+    {
+      "url": "http://www.legislation.gov.uk/uksi/2025/909/part/50",
+      "title": "PART 50 \u2014 EXTRADITION",
+      "part_number": "50",
+      "section": "EXTRADITION",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/part-50-extradition.md",
+      "status": "saved"
+    },
+    {
+      "url": "https://www.legislation.gov.uk/uksi/2025/909/contents",
+      "title": "The Criminal Procedure Rules 2025 \u2014 Table of Contents",
+      "part_number": "",
+      "section": "contents",
+      "file": "legislation-govuk/criminal-procedure-rules-2025/contents.md",
+      "status": "saved"
+    }
+  ]
+}

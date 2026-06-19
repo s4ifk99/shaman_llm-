@@ -1,0 +1,113 @@
+---
+source: legislation.gov.uk
+url: "https://www.legislation.gov.uk/uksi/2025/909/contents"
+title: "The Criminal Procedure Rules 2025 — Table of Contents"
+instrument_id: "uksi/2025/909"
+part_number: ""
+section: "contents"
+last_updated: ""
+crawl_date: "2026-06-20"
+---
+
+## Table of contents
+
+- **PART 1** — THE OVERRIDING OBJECTIVE
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/1
+- **PART 2** — UNDERSTANDING AND APPLYING THE RULES; POWERS AND DUTIES OF COURT OFFICERS AND JUSTICES’ LEGAL ADVISERS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/2
+- **PART 3** — CASE MANAGEMENT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/3
+- **PART 4** — SERVICE OF DOCUMENTS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/4
+- **PART 5** — FORMS AND COURT RECORDS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/5
+- **PART 6** — REPORTING, ETC. RESTRICTIONS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/6
+- **PART 7** — STARTING A PROSECUTION IN A MAGISTRATES’ COURT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/7
+- **PART 8** — INITIAL DETAILS OF THE PROSECUTION CASE
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/8
+- **PART 9** — ALLOCATION AND SENDING FOR TRIAL
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/9
+- **PART 10** — THE INDICTMENT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/10
+- **PART 11** — DEFERRED PROSECUTION AGREEMENTS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/11
+- **PART 12** — DISCONTINUING A PROSECUTION
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/12
+- **PART 13** — WARRANTS FOR ARREST, DETENTION OR IMPRISONMENT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/13
+- **PART 14** — BAIL AND CUSTODY TIME LIMITS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/14
+- **PART 15** — DISCLOSURE
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/15
+- **PART 16** — WRITTEN WITNESS STATEMENTS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/16
+- **PART 17** — WITNESS SUMMONSES, WARRANTS AND ORDERS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/17
+- **PART 18** — MEASURES TO HELP A WITNESS OR DEFENDANT TO GIVE EVIDENCE OR OTHERWISE PARTICIPATE
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/18
+- **PART 19** — EXPERT EVIDENCE
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/19
+- **PART 20** — HEARSAY EVIDENCE
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/20
+- **PART 21** — EVIDENCE OF BAD CHARACTER
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/21
+- **PART 22** — EVIDENCE OF A COMPLAINANT’S PREVIOUS SEXUAL BEHAVIOUR
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/22
+- **PART 23** — RESTRICTION ON CROSS-EXAMINATION BY A DEFENDANT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/23
+- **PART 24** — TRIAL AND SENTENCE IN A MAGISTRATES’ COURT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/24
+- **PART 25** — TRIAL AND SENTENCE IN THE CROWN COURT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/25
+- **PART 26** — JURORS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/26
+- **PART 27** — RETRIAL AFTER ACQUITTAL
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/27
+- **PART 28** — SENTENCING PROCEDURES IN SPECIAL CASES AND ON COMMITTAL FOR SENTENCE, ETC.
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/28
+- **PART 29** — ROAD TRAFFIC PENALTIES
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/29
+- **PART 30** — ENFORCEMENT OF FINES AND OTHER ORDERS FOR PAYMENT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/30
+- **PART 31** — BEHAVIOUR ORDERS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/31
+- **PART 32** — BREACH, REVOCATION AND AMENDMENT OF COMMUNITY AND OTHER ORDERS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/32
+- **PART 33** — CONFISCATION AND RELATED PROCEEDINGS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/33
+- **PART 34** — APPEAL TO THE CROWN COURT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/34
+- **PART 35** — APPEAL TO THE HIGH COURT BY CASE STATED
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/35
+- **PART 36** — APPEAL TO THE COURT OF APPEAL: GENERAL RULES
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/36
+- **PART 37** — APPEAL TO THE COURT OF APPEAL AGAINST RULING AT PREPARATORY HEARING OR IN RESPONSE TO JURY TAMPERING
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/37
+- **PART 38** — APPEAL TO THE COURT OF APPEAL AGAINST RULING ADVERSE TO PROSECUTION
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/38
+- **PART 39** — APPEAL TO THE COURT OF APPEAL ABOUT CONVICTION OR SENTENCE
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/39
+- **PART 40** — APPEAL TO THE COURT OF APPEAL ABOUT REPORTING OR PUBLIC ACCESS RESTRICTION
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/40
+- **PART 41** — REFERENCE TO THE COURT OF APPEAL OF POINT OF LAW OR UNDULY LENIENT SENTENCING
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/41
+- **PART 42** — APPEAL TO THE COURT OF APPEAL IN CONFISCATION AND RELATED PROCEEDINGS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/42
+- **PART 43** — APPEAL OR REFERENCE TO THE SUPREME COURT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/43
+- **PART 44** — REOPENING A CASE IN A MAGISTRATES’ COURT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/44
+- **PART 45** — COSTS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/45
+- **PART 46** — REPRESENTATIVES
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/46
+- **PART 47** — INVESTIGATION ORDERS AND WARRANTS
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/47
+- **PART 48** — CONTEMPT OF COURT
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/48
+- **PART 49** — INTERNATIONAL CO-OPERATION
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/49
+- **PART 50** — EXTRADITION
+  - Source: http://www.legislation.gov.uk/uksi/2025/909/part/50

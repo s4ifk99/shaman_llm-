@@ -1,0 +1,1945 @@
+{
+  "source": "Sentencing Council",
+  "hub_url": "https://sentencingcouncil.org.uk/guidelines/magistrates/",
+  "crawl_date": "2026-06-20",
+  "pages_saved": 242,
+  "pages_discovered": 242,
+  "pages": [
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/magistrates/",
+      "title": "Magistrates\u2019",
+      "guideline_type": "index",
+      "file": "sentencing-council/magistrates/magistrates-courts-sentencing-guidelines.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/allocation-and-committal-for-sentence/",
+      "title": "Allocation and committal for sentence",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/allocation-and-committal-for-sentence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/domestic-abuse-overarching-principles/",
+      "title": "Domestic abuse: overarching principles",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/domestic-abuse-overarching-principles.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/driving-disqualification/",
+      "title": "Driving disqualification",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/driving-disqualification.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/general-guideline-overarching-principles/",
+      "title": "General guideline: overarching principles",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/general-guideline-overarching-principles.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/imposition-of-community-and-custodial-sentences/",
+      "title": "Imposition of community and custodial sentences",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/imposition-of-community-and-custodial-sentences.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/offences-taken-into-consideration/",
+      "title": "Offences taken into consideration",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/offences-taken-into-consideration.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/reduction-in-sentence-for-a-guilty-plea-first-hearing-on-or-after-1-june-2017/",
+      "title": "Reduction in sentence for a guilty plea - first hearing on or after 1 June 2017",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/reduction-in-sentence-for-a-guilty-plea-first-hearing-on-or-after-1-june-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sentencing-children-and-young-people/",
+      "title": "Sentencing children and young people",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/sentencing-children-and-young-people.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sentencing-offenders-with-mental-disorders-developmental-disorders-or-neurological-impairments/",
+      "title": "Sentencing offenders with mental disorders, developmental disorders, or neurological impairments",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/sentencing-offenders-with-mental-disorders-developmental-disorders-or-neurological-impairments.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/totality/",
+      "title": "Totality",
+      "guideline_type": "overarching",
+      "file": "sentencing-council/magistrates/totality.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/ancillary-orders/",
+      "title": "Ancillary orders",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-ancillary-orders.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/approach-to-fines/",
+      "title": "Approach to fines",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-approach-to-fines.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/compensation/",
+      "title": "Compensation",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-compensation.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/deferred-sentences/",
+      "title": "Deferred sentences",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-deferred-sentences.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/hate-crime/",
+      "title": "Hate crime",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-hate-crime.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/offences-in-a-domestic-abuse-context/",
+      "title": "Offences in a domestic abuse context",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-offences-in-a-domestic-abuse-context.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/other-financial-orders/",
+      "title": "Other financial orders",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-other-financial-orders.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/out-of-court-disposals/",
+      "title": "Out of court disposals",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-out-of-court-disposals.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/road-traffic-offences-disqualification/",
+      "title": "Road traffic offences \u2013 disqualification",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-road-traffic-offences-disqualification.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/using-the-guidelines/",
+      "title": "Using the guidelines",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-using-the-guidelines.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/supplementary-information/victims/",
+      "title": "Victims",
+      "guideline_type": "supplementary",
+      "file": "sentencing-council/magistrates/supplementary-victims.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/abstracting-electricity/",
+      "title": "Abstracting electricity",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/abstracting-electricity.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/abuse-of-position-of-trust-sexual-activity-in-the-presence-of-a-child-abuse-of-position-of-trust-causing-a-child-to-watch-a-sexual-act/",
+      "title": "Abuse of position of trust: sexual activity in the presence of a child/ Abuse of position of trust: causing a child to watch a sexual act",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/abuse-of-position-of-trust-sexual-activity-in-the-presence-of-a-child-abuse-of-position-of-trust-cau.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/abuse-of-position-of-trust-sexual-activity-with-a-child-abuse-of-position-of-trust-causing-or-inciting-a-child-to-engage-in-sexual-activity/",
+      "title": "Abuse of position of trust: sexual activity with a child/ Abuse of position of trust: causing or inciting a child to engage in sexual activity",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/abuse-of-position-of-trust-sexual-activity-with-a-child-abuse-of-position-of-trust-causing-or-inciti.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/administering-a-substance-with-intent/",
+      "title": "Administering a substance with intent",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/administering-a-substance-with-intent.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/affray/",
+      "title": "Affray",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/affray.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/aggravated-vehicle-taking-damage-caused-to-vehicle-or-other-property/",
+      "title": "Aggravated vehicle taking \u2013 damage caused to vehicle or other property",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/aggravated-vehicle-taking-damage-caused-to-vehicle-or-other-property.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/aggravated-vehicle-taking-dangerous-driving/",
+      "title": "Aggravated vehicle taking \u2013 dangerous driving",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/aggravated-vehicle-taking-dangerous-driving.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/aggravated-vehicle-taking-death-caused/",
+      "title": "Aggravated vehicle taking \u2013 death caused",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/aggravated-vehicle-taking-death-caused.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/aggravated-vehicle-taking-injury-caused/",
+      "title": "Aggravated vehicle taking \u2013 injury caused",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/aggravated-vehicle-taking-injury-caused.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/alcohol-sale-offences-revised-2017/",
+      "title": "Alcohol sale offences (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/alcohol-sale-offences-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/animal-cruelty/",
+      "title": "Animal cruelty",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/animal-cruelty.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/arranging-or-facilitating-the-commission-of-a-child-sex-offence/",
+      "title": "Arranging or facilitating the commission of a child sex offence",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/arranging-or-facilitating-the-commission-of-a-child-sex-offence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/arson-criminal-damage-by-fire/",
+      "title": "Arson (criminal damage by fire)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/arson-criminal-damage-by-fire.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/assault-occasioning-actual-bodily-harm-racially-or-religiously-aggravated-abh/",
+      "title": "Assault occasioning actual bodily harm / Racially or religiously aggravated ABH",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/assault-occasioning-actual-bodily-harm-racially-or-religiously-aggravated-abh.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/assault-on-a-police-constable-in-execution-of-his-duty-interim-guidance/",
+      "title": "Assault on a police constable in execution of his duty - interim guidance",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/assault-on-a-police-constable-in-execution-of-his-duty-interim-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/assault-with-intent-to-resist-arrest/",
+      "title": "Assault with intent to resist arrest",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/assault-with-intent-to-resist-arrest.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/being-in-charge-of-a-motor-vehicle-with-a-specified-drug-above-the-specified-limit/",
+      "title": "Being in charge of a motor vehicle with a specified drug above the specified limit",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/being-in-charge-of-a-motor-vehicle-with-a-specified-drug-above-the-specified-limit.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/benefit-fraud/",
+      "title": "Benefit Fraud",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/benefit-fraud.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/bladed-articles-and-offensive-weapons-having-in-a-public-place/",
+      "title": "Bladed articles and offensive weapons - having in a public place",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/bladed-articles-and-offensive-weapons-having-in-a-public-place.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/bladed-articles-and-offensive-weapons-threats/",
+      "title": "Bladed articles and offensive weapons - threats",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/bladed-articles-and-offensive-weapons-threats.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/bladed-articles-and-offensive-weapons-having-in-publiceducation-premises-and-threats-children-and-young-people/",
+      "title": "Bladed articles and offensive weapons (having in public/education premises and threats) \u2013 children and young people",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/bladed-articles-and-offensive-weapons-having-in-publiceducation-premises-and-threats-children-and-yo.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/brakes-defective.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/brakes-defective-over-35-tonnes.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-a-community-order/",
+      "title": "Breach of a community order",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-a-community-order.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-a-criminal-behaviour-order/",
+      "title": "Breach of a criminal behaviour order",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-a-criminal-behaviour-order.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-a-protective-order-restraining-and-non-molestation-orders/",
+      "title": "Breach of a protective order (restraining and non-molestation orders)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-a-protective-order-restraining-and-non-molestation-orders.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-a-sexual-harm-prevention-order/",
+      "title": "Breach of a sexual harm prevention order",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-a-sexual-harm-prevention-order.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-a-slavery-and-trafficking-prevention-order-breach-of-a-slavery-and-trafficking-risk-order/",
+      "title": "Breach of a Slavery and Trafficking Prevention Order/ Breach of a Slavery and Trafficking Risk Order",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-a-slavery-and-trafficking-prevention-order-breach-of-a-slavery-and-trafficking-risk-order.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-a-suspended-sentence-order/",
+      "title": "Breach of a suspended sentence order",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-a-suspended-sentence-order.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-disqualification-from-acting-as-a-director/",
+      "title": "Breach of disqualification from acting as a director",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-disqualification-from-acting-as-a-director.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-disqualification-from-keeping-an-animal/",
+      "title": "Breach of disqualification from keeping an animal",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-disqualification-from-keeping-an-animal.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-of-post-sentence-supervision-breach-of-supervision-default-order/",
+      "title": "Breach of post-sentence supervision/ Breach of supervision default order",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-of-post-sentence-supervision-breach-of-supervision-default-order.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/breach-offences-other/",
+      "title": "Breach offences (other)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/breach-offences-other.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/bribery/",
+      "title": "Bribery",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/bribery.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/care-workers-sexual-activity-in-the-presence-of-a-person-with-a-mental-disorder-care-workers-causing-a-person-with-a-mental-disorder-to-watch-a-sexual-act/",
+      "title": "Care workers: sexual activity in the presence of a person with a mental disorder/ Care workers: causing a person with a mental disorder to watch a sexual act",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/care-workers-sexual-activity-in-the-presence-of-a-person-with-a-mental-disorder-care-workers-causing.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/care-workers-sexual-activity-with-a-person-with-a-mental-disorder-care-workers-causing-or-inciting-sexual-activity/",
+      "title": "Care workers: sexual activity with a person with a mental disorder/ Care workers: causing or inciting sexual activity",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/care-workers-sexual-activity-with-a-person-with-a-mental-disorder-care-workers-causing-or-inciting-s.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/careless-driving-drive-without-due-care-and-attention/",
+      "title": "Careless Driving (drive without due care and attention)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/careless-driving-drive-without-due-care-and-attention.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-a-person-to-engage-in-sexual-activity-without-consent/",
+      "title": "Causing a person to engage in sexual activity without consent",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-a-person-to-engage-in-sexual-activity-without-consent.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-death-by-careless-or-inconsiderate-driving/",
+      "title": "Causing death by careless or inconsiderate driving",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-death-by-careless-or-inconsiderate-driving.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-death-by-driving-unlicensed-or-uninsured-drivers/",
+      "title": "Causing death by driving: unlicensed or uninsured drivers",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-death-by-driving-unlicensed-or-uninsured-drivers.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-or-inciting-a-child-under-13-to-engage-in-sexual-activity/",
+      "title": "Causing or inciting a child under 13 to engage in sexual activity",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-or-inciting-a-child-under-13-to-engage-in-sexual-activity.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-or-inciting-prostitution-for-gain-controlling-prostitution-for-gain/",
+      "title": "Causing or inciting prostitution for gain/ Controlling prostitution for gain",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-or-inciting-prostitution-for-gain-controlling-prostitution-for-gain.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-or-inciting-sexual-exploitation-of-a-child-controlling-a-child-in-relation-to-sexual-exploitation-arranging-or-facilitating-sexual-exploitation-of-a-child/",
+      "title": "Causing or inciting sexual exploitation of a child/ Controlling a child in relation to sexual exploitation/ Arranging or facilitating sexual exploitation of a child",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-or-inciting-sexual-exploitation-of-a-child-controlling-a-child-in-relation-to-sexual-exploit.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-serious-injury-by-careless-or-inconsiderate-driving/",
+      "title": "Causing serious injury by careless or inconsiderate driving",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-serious-injury-by-careless-or-inconsiderate-driving.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-serious-injury-by-dangerous-driving/",
+      "title": "Causing serious injury by dangerous driving",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-serious-injury-by-dangerous-driving.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/causing-serious-injury-by-driving-disqualified-drivers/",
+      "title": "Causing serious injury by driving: disqualified drivers",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/causing-serious-injury-by-driving-disqualified-drivers.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/child-sex-offences-committed-by-children-or-young-persons-sections-9-12-offender-under-18-sexual-activity-with-a-child-family-member-offender-under-18-inciting-a-child-family-member-to-engage-in-sexual-activity-offender-under-18/",
+      "title": "Child sex offences committed by children or young persons (sections 9-12) (offender under 18)/ Sexual activity with a child family member (offender under 18)/ Inciting a child family member to engage in sexual activity (offender under 18)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/child-sex-offences-committed-by-children-or-young-persons-sections-9-12-offender-under-18-sexual-act.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/collection-of-terrorist-information/",
+      "title": "Collection of terrorist information",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/collection-of-terrorist-information.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/committing-an-offence-with-intent-to-commit-a-sexual-offence/",
+      "title": "Committing an offence with intent to commit a sexual offence",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/committing-an-offence-with-intent-to-commit-a-sexual-offence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/committing-offence-with-intent-to-commit-a-human-trafficking-offence/",
+      "title": "Committing offence with intent to commit a human trafficking offence",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/committing-offence-with-intent-to-commit-a-human-trafficking-offence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/common-assault-racially-or-religiously-aggravated-common-assault-battery-common-assault-on-emergency-worker/",
+      "title": "Common assault / Racially or religiously aggravated common assault/ Battery/ Common assault on emergency worker",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/common-assault-racially-or-religiously-aggravated-common-assault-battery-common-assault-on-emergency.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/communication-network-offences-revised-2017/",
+      "title": "Communication network offences (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/communication-network-offences-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/condition-of-vehicle-accessories-equipment-involving-danger-of-injury-busesgoods-vehicles.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/condition-of-vehicleaccessoriesequipment-involving-danger-of-injury.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/controlling-or-coercive-behaviour-in-an-intimate-or-family-relationship/",
+      "title": "Controlling or coercive behaviour in an intimate or family relationship",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/controlling-or-coercive-behaviour-in-an-intimate-or-family-relationship.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/corporate-offenders-fraud-bribery-and-money-laundering/",
+      "title": "Corporate offenders: fraud, bribery and money laundering",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/corporate-offenders-fraud-bribery-and-money-laundering.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/criminal-damage-other-than-by-fire-value-exceeding-5-000-racially-or-religiously-aggravated-criminal-damage/",
+      "title": "Criminal damage (other than by fire) value exceeding \u00a35,000/ Racially or religiously aggravated criminal damage",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/criminal-damage-other-than-by-fire-value-exceeding-5-000-racially-or-religiously-aggravated-criminal.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/criminal-damage-other-than-by-fire-value-not-exceeding-5-000-racially-or-religiously-aggravated-criminal-damage/",
+      "title": "Criminal damage (other than by fire) value not exceeding \u00a35,000/ Racially or religiously aggravated criminal damage",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/criminal-damage-other-than-by-fire-value-not-exceeding-5-000-racially-or-religiously-aggravated-crim.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/cruelty-to-a-child-assault-and-ill-treatment-abandonment-neglect-and-failure-to-protect/",
+      "title": "Cruelty to a child \u2013 assault and ill treatment, abandonment, neglect, and failure to protect",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/cruelty-to-a-child-assault-and-ill-treatment-abandonment-neglect-and-failure-to-protect.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/dangerous-driving/",
+      "title": "Dangerous driving",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/dangerous-driving.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/dangerous-parking.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/disclosing-or-threatening-to-disclose-private-sexual-images/",
+      "title": "Disclosing or threatening to disclose private sexual images",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/disclosing-or-threatening-to-disclose-private-sexual-images.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/disorderly-behaviour-with-intent-to-cause-harassment-alarm-or-distress-racially-or-religiously-aggravated-disorderly-behaviour-with-intent-to-cause-harassment-alarm-or-distress/",
+      "title": "Disorderly behaviour with intent to cause harassment, alarm or distress/ Racially or religiously aggravated disorderly behaviour with intent to cause harassment, alarm or distress",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/disorderly-behaviour-with-intent-to-cause-harassment-alarm-or-distress-racially-or-religiously-aggra.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/disorderly-behaviour-racially-or-religiously-aggravated-disorderly-behaviour/",
+      "title": "Disorderly behaviour/ Racially or religiously aggravated disorderly behaviour",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/disorderly-behaviour-racially-or-religiously-aggravated-disorderly-behaviour.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/domestic-burglary/",
+      "title": "Domestic burglary",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/domestic-burglary.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drive-in-reverse-or-wrong-way-on-motorway.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drive-in-reverse-or-wrong-way-on-slip-road.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drive-off-carriageway-central-reservation-or-hard-shoulder.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drive-otherwise-than-in-accordance-with-licence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drive-otherwise-than-in-accordance-with-licence-where-could-be-covered.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/drive-whilst-disqualified-revised-2017/",
+      "title": "Drive whilst disqualified (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drive-whilst-disqualified-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/driving-or-attempting-to-drive-with-a-specified-drug-above-the-specified-limit/",
+      "title": "Driving or Attempting to Drive with a specified drug above the specified limit",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/driving-or-attempting-to-drive-with-a-specified-drug-above-the-specified-limit.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/drugs-class-a-fail-to-attendremain-for-initial-assessment/",
+      "title": "Drugs \u2013 class A \u2013 fail to attend/remain for initial assessment",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drugs-class-a-fail-to-attendremain-for-initial-assessment.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/drugs-class-a-failrefuse-to-provide-a-sample/",
+      "title": "Drugs \u2013 class A \u2013 fail/refuse to provide a sample",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drugs-class-a-failrefuse-to-provide-a-sample.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/drunk-and-disorderly-in-a-public-place-revised-2017/",
+      "title": "Drunk and disorderly in a public place (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/drunk-and-disorderly-in-a-public-place-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/encouragement-of-terrorism-dissemination-of-terrorist-publications/",
+      "title": "Encouragement of terrorism/ Dissemination of terrorist publications",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/encouragement-of-terrorism-dissemination-of-terrorist-publications.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/engaging-in-sexual-activity-in-the-presence-of-a-child-causing-a-child-to-watch-a-sexual-act/",
+      "title": "Engaging in sexual activity in the presence of a child/ Causing a child to watch a sexual act",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/engaging-in-sexual-activity-in-the-presence-of-a-child-causing-a-child-to-watch-a-sexual-act.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/engaging-in-sexual-activity-in-the-presence-of-a-person-with-mental-disorder-impeding-choice-causing-a-person-with-mental-disorder-impeding-choice-to-watch-a-sexual-act/",
+      "title": "Engaging in sexual activity in the presence of a person with mental disorder impeding choice/ Causing a person, with mental disorder impeding choice, to watch a sexual act",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/engaging-in-sexual-activity-in-the-presence-of-a-person-with-mental-disorder-impeding-choice-causing.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/engaging-in-sexual-activity-in-the-presence-procured-by-inducement-threat-or-deception-of-a-person-with-mental-disorder-causing-a-person-with-a-mental-disorder-to-watch-a-sexual-act-by-inducement-threat-or-deception/",
+      "title": "Engaging in sexual activity in the presence procured by inducement, threat or deception, of a person with mental disorder/ Causing a person with a mental disorder to watch a sexual act by inducement, threat or deception",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/engaging-in-sexual-activity-in-the-presence-procured-by-inducement-threat-or-deception-of-a-person-w.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/environmental-offences-other/",
+      "title": "Environmental offences (other)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/environmental-offences-other.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/exceed-permitted-driving-time-periods-of-duty.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/excess-alcohol-driveattempt-to-drive-revised-2017/",
+      "title": "Excess Alcohol (drive/attempt to drive) (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/excess-alcohol-driveattempt-to-drive-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/excess-alcohol-in-charge-revised-2017/",
+      "title": "Excess Alcohol (in charge) (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/excess-alcohol-in-charge-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/exhaust-defective.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/exhaust-emission.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/exposure/",
+      "title": "Exposure",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/exposure.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-co-operate-with-preliminary-roadside-breath-test.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/fail-to-comply-with-notification-requirements/",
+      "title": "Fail to comply with notification requirements",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-comply-with-notification-requirements.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-comply-with-police-constable-directing-traffic.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-comply-with-traffic-sign-eg-give-way-sign-keep-left-sign-temporary-signs.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-comply-with-traffic-sign-eg-red-traffic-light-stop-sign-double-white-lines-no-entry-sign.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-give-information-of-driver-s-identity-as-required.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-keep-return-written-record-sheets.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-notify-change-of-ownership-to-dvla.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-produce-insurance-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-produce-test-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/fail-to-provide-specimen-for-analysis-driveattempt-to-drive-revised-2017/",
+      "title": "Fail to provide specimen for analysis (drive/attempt to drive) (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-provide-specimen-for-analysis-driveattempt-to-drive-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/fail-to-provide-specimen-for-analysis-in-charge-revised-2017/",
+      "title": "Fail to provide specimen for analysis (in charge) (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-provide-specimen-for-analysis-in-charge-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-stop-when-required-by-police-constable.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/fail-to-stopreport-road-accident-revised-2017/",
+      "title": "Fail to stop/report road accident (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-stopreport-road-accident-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fail-to-use-appropriate-child-car-seat.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/failure-to-disclose-information-about-acts-of-terrorism/",
+      "title": "Failure to disclose information about acts of terrorism",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/failure-to-disclose-information-about-acts-of-terrorism.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/failure-to-ensure-animal-welfare/",
+      "title": "Failure to ensure animal welfare",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/failure-to-ensure-animal-welfare.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/failure-to-surrender-to-bail/",
+      "title": "Failure to surrender to bail",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/failure-to-surrender-to-bail.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/falsify-or-alter-records-with-intent-to-deceive.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/firearms-importation/",
+      "title": "Firearms - Importation",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/firearms-importation.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/firearms-carrying-in-a-public-place/",
+      "title": "Firearms \u2013 Carrying in a public place",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/firearms-carrying-in-a-public-place.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/firearms-possession-by-person-prohibited/",
+      "title": "Firearms \u2013 Possession by person prohibited",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/firearms-possession-by-person-prohibited.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/firearms-possession-of-prohibited-weapon/",
+      "title": "Firearms \u2013 Possession of prohibited weapon",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/firearms-possession-of-prohibited-weapon.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/firearms-possession-without-certificate/",
+      "title": "Firearms \u2013 Possession without certificate",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/firearms-possession-without-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/football-related-offences-revised-2017/",
+      "title": "Football related offences (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/football-related-offences-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/fraud/",
+      "title": "Fraud",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fraud.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/fraudulent-evasion-of-a-prohibition-by-bringing-into-or-taking-out-of-the-uk-a-controlled-drug/",
+      "title": "Fraudulent evasion of a prohibition by bringing into or taking out of the UK a controlled drug",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/fraudulent-evasion-of-a-prohibition-by-bringing-into-or-taking-out-of-the-uk-a-controlled-drug.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/funding-terrorism/",
+      "title": "Funding terrorism",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/funding-terrorism.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/going-equipped-for-theft-or-burglary/",
+      "title": "Going equipped for theft or burglary",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/going-equipped-for-theft-or-burglary.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/handling-stolen-goods/",
+      "title": "Handling stolen goods",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/handling-stolen-goods.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/harassment-fear-of-violence-stalking-fear-of-violence-or-serious-alarm-or-distress-racially-or-religiously-aggravated-harassment-fear-of-violence-stalking-fear-of-violence-or-serious-alarm-or-distress/",
+      "title": "Harassment (fear of violence)/ Stalking (fear of violence or serious alarm or distress)/ Racially or religiously aggravated harassment (fear of violence)/stalking (fear of violence or serious alarm or distress)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/harassment-fear-of-violence-stalking-fear-of-violence-or-serious-alarm-or-distress-racially-or-relig.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/harassment-stalking-racially-or-religiously-aggravated-harassmentstalking/",
+      "title": "Harassment/ Stalking/ Racially or religiously aggravated harassment/stalking",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/harassment-stalking-racially-or-religiously-aggravated-harassmentstalking.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/hare-coursing/",
+      "title": "Hare coursing",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/hare-coursing.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/importing-or-exporting-a-psychoactive-substance/",
+      "title": "Importing or exporting a psychoactive substance",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/importing-or-exporting-a-psychoactive-substance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/individuals-breach-of-duty-of-employer-towards-employees-and-non-employees-breach-of-duty-of-self-employed-to-others-breach-of-duty-of-employees-at-work-breach-of-health-and-safety-regulations-secondary-liability/",
+      "title": "Individuals: Breach of duty of employer towards employees and non-employees/ Breach of duty of self-employed to others/ Breach of duty of employees at work/ Breach of Health and Safety regulations/ Secondary liability",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/individuals-breach-of-duty-of-employer-towards-employees-and-non-employees-breach-of-duty-of-self-em.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/individuals-breach-of-food-safety-and-food-hygiene-regulations/",
+      "title": "Individuals: Breach of food safety and food hygiene regulations",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/individuals-breach-of-food-safety-and-food-hygiene-regulations.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/individuals-sale-of-knives-etc-by-retailers-to-persons-under-18/",
+      "title": "Individuals: Sale of knives etc by retailers to persons under 18",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/individuals-sale-of-knives-etc-by-retailers-to-persons-under-18.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/individuals-trade-mark-unauthorised-use-of-etc/",
+      "title": "Individuals: Trade mark, unauthorised use of etc.",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/individuals-trade-mark-unauthorised-use-of-etc.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/individuals-unauthorised-or-harmful-deposit-treatment-or-disposal-etc-of-waste-illegal-discharges-to-air-land-and-water/",
+      "title": "Individuals: Unauthorised or harmful deposit, treatment or disposal etc of waste/ Illegal discharges to air, land and water",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/individuals-unauthorised-or-harmful-deposit-treatment-or-disposal-etc-of-waste-illegal-discharges-to.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/inducement-threat-or-deception-to-procure-sexual-activity-with-a-person-with-a-mental-disorder-causing-a-person-with-a-mental-disorder-to-engage-in-or-agree-to-engage-in-sexual-activity-by-inducement-threat-or-deception/",
+      "title": "Inducement, threat or deception to procure sexual activity with a person with a mental disorder/ Causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/inducement-threat-or-deception-to-procure-sexual-activity-with-a-person-with-a-mental-disorder-causi.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/inflicting-grievous-bodily-harm-unlawful-wounding-racially-or-religiously-aggravated-gbh-unlawful-wounding/",
+      "title": "Inflicting grievous bodily harm/ Unlawful wounding/ Racially or religiously aggravated GBH/ Unlawful wounding",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/inflicting-grievous-bodily-harm-unlawful-wounding-racially-or-religiously-aggravated-gbh-unlawful-wo.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/keeping-a-brothel-used-for-prostitution/",
+      "title": "Keeping a brothel used for prostitution",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/keeping-a-brothel-used-for-prostitution.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/learner-driver-or-excluded-vehicle.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/lights-defective.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/make-u-turn-on-motorway.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/making-off-without-payment/",
+      "title": "Making Off Without Payment",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/making-off-without-payment.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/meeting-a-child-following-sexual-grooming/",
+      "title": "Meeting a child following sexual grooming",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/meeting-a-child-following-sexual-grooming.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/money-laundering/",
+      "title": "Money laundering",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/money-laundering.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/motoring-offences-appropriate-for-imposition-of-fine-or-discharge.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/no-excise-licence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/no-goods-vehicle-plating-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/no-goods-vehicle-test-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/no-insurance-revised-2017/",
+      "title": "No insurance (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/no-insurance-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/no-operators-licence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/no-test-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/non-domestic-burglary/",
+      "title": "Non-domestic burglary",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/non-domestic-burglary.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/number-of-passengers-or-way-carried-involving-danger-of-injury.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/number-of-passengers-or-way-carried-involving-danger-of-injury-over-35-tonnes.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/obstruct-resist-a-police-constable-in-execution-of-duty-revised-2017/",
+      "title": "Obstruct/ resist a police constable in execution of duty (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/obstruct-resist-a-police-constable-in-execution-of-duty-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/offences-with-a-terrorist-connection-guidance/",
+      "title": "Offences with a terrorist connection: guidance",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/offences-with-a-terrorist-connection-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/organisations-breach-of-duty-of-employer-towards-employees-and-non-employees-breach-of-duty-of-self-employed-to-others-breach-of-health-and-safety-regulations/",
+      "title": "Organisations: Breach of duty of employer towards employees and non-employees/ Breach of duty of self-employed to others/ Breach of Health and Safety regulations",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/organisations-breach-of-duty-of-employer-towards-employees-and-non-employees-breach-of-duty-of-self.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/organisations-breach-of-food-safety-and-food-hygiene-regulations/",
+      "title": "Organisations: Breach of food safety and food hygiene regulations",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/organisations-breach-of-food-safety-and-food-hygiene-regulations.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/organisations-sale-of-knives-etc-by-retailers-to-persons-under-18/",
+      "title": "Organisations: Sale of knives etc by retailers to persons under 18",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/organisations-sale-of-knives-etc-by-retailers-to-persons-under-18.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/organisations-trade-mark-unauthorised-use-of-etc/",
+      "title": "Organisations: Trade mark, unauthorised use of etc.",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/organisations-trade-mark-unauthorised-use-of-etc.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/organisations-unauthorised-or-harmful-deposit-treatment-or-disposal-etc-of-waste-illegal-discharges-to-air-land-and-water/",
+      "title": "Organisations: Unauthorised or harmful deposit, treatment or disposal etc of waste/ Illegal discharges to air, land and water",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/organisations-unauthorised-or-harmful-deposit-treatment-or-disposal-etc-of-waste-illegal-discharges.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/overloading-exceeding-axle-weight.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/overloading-exceeding-axle-weight-over-35-tonnes.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-whether-or-not-a-public-place/",
+      "title": "Owner or person in charge of a dog dangerously out of control in any place in England or Wales (whether or not a public place)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-wheth.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-whether-or-not-a-public-place-where-a-person-is-injured/",
+      "title": "Owner or person in charge of a dog dangerously out of control in any place in England or Wales (whether or not a public place) where a person is injured",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-wheth-2.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-whether-or-not-a-public-place-where-an-assistance-dog-is-injured-or-killed/",
+      "title": "Owner or person in charge of a dog dangerously out of control in any place in England or Wales (whether or not a public place) where an assistance dog is injured or killed",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-wheth-3.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-whether-or-not-a-public-place-where-death-is-caused/",
+      "title": "Owner or person in charge of a dog dangerously out of control in any place in England or Wales (whether or not a public place) where death is caused",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/owner-or-person-in-charge-of-a-dog-dangerously-out-of-control-in-any-place-in-england-or-wales-wheth-4.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/paying-for-the-sexual-services-of-a-child/",
+      "title": "Paying for the sexual services of a child",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/paying-for-the-sexual-services-of-a-child.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/pelican-zebra-crossing-contravention.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/permitting-premises-to-be-used/",
+      "title": "Permitting premises to be used",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/permitting-premises-to-be-used.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/position-or-manner-in-which-load-secured-not-involving-danger.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/position-or-manner-in-which-load-secured-not-involving-danger-over-35-tonnes.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/possession-for-terrorist-purposes/",
+      "title": "Possession for terrorist purposes",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/possession-for-terrorist-purposes.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/possession-of-a-controlled-drug/",
+      "title": "Possession of a controlled drug",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/possession-of-a-controlled-drug.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/possession-of-a-prohibited-dog-breeding-selling-exchanging-or-advertising-a-prohibited-dog/",
+      "title": "Possession of a prohibited dog/ Breeding, selling, exchanging or advertising a prohibited dog",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/possession-of-a-prohibited-dog-breeding-selling-exchanging-or-advertising-a-prohibited-dog.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/possession-of-articles-for-use-in-frauds-making-or-supplying-articles-for-use-in-frauds/",
+      "title": "Possession of articles for use in frauds/ Making or supplying articles for use in frauds",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/possession-of-articles-for-use-in-frauds-making-or-supplying-articles-for-use-in-frauds.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/possession-of-indecent-photograph-of-child-indecent-photographs-of-children/",
+      "title": "Possession of indecent photograph of child/ Indecent photographs of children",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/possession-of-indecent-photograph-of-child-indecent-photographs-of-children.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/producing-a-psychoactive-substance/",
+      "title": "Producing a psychoactive substance",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/producing-a-psychoactive-substance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/production-of-a-controlled-drug-cultivation-of-cannabis-plant/",
+      "title": "Production of a controlled drug / Cultivation of cannabis plant",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/production-of-a-controlled-drug-cultivation-of-cannabis-plant.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/proscribed-organisations-membership/",
+      "title": "Proscribed organisations - membership",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/proscribed-organisations-membership.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/proscribed-organisations-support/",
+      "title": "Proscribed organisations - support",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/proscribed-organisations-support.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/racial-hatred-offences-hatred-against-persons-on-religious-grounds-or-grounds-of-sexual-orientation/",
+      "title": "Racial hatred offences/ Hatred against persons on religious grounds or grounds of sexual orientation",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/racial-hatred-offences-hatred-against-persons-on-religious-grounds-or-grounds-of-sexual-orientation.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/railway-fare-evasion-revised-2017/",
+      "title": "Railway fare evasion (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/railway-fare-evasion-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/revenue-fraud/",
+      "title": "Revenue fraud",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/revenue-fraud.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/robbery-sentencing-children-and-young-people/",
+      "title": "Robbery \u2013 Sentencing children and young people",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/robbery-sentencing-children-and-young-people.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/school-non-attendance-revised-2017/",
+      "title": "School non-attendance (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/school-non-attendance-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/seat-belt-offences.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sex-with-an-adult-relative-penetration-sex-with-an-adult-relative-consenting-to-penetration/",
+      "title": "Sex with an adult relative: penetration/ Sex with an adult relative: consenting to penetration",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sex-with-an-adult-relative-penetration-sex-with-an-adult-relative-consenting-to-penetration.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-activity-in-a-public-lavatory/",
+      "title": "Sexual activity in a public lavatory",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-activity-in-a-public-lavatory.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-activity-with-a-child-family-member-inciting-a-child-family-member-to-engage-in-sexual-activity/",
+      "title": "Sexual activity with a child family member/ Inciting a child family member to engage in sexual activity",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-activity-with-a-child-family-member-inciting-a-child-family-member-to-engage-in-sexual-activi.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-activity-with-a-child-causing-or-inciting-a-child-to-engage-in-sexual-activity/",
+      "title": "Sexual activity with a child/ Causing or inciting a child to engage in sexual activity",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-activity-with-a-child-causing-or-inciting-a-child-to-engage-in-sexual-activity.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-activity-with-a-person-with-a-mental-disorder-impeding-choice-causing-or-inciting-a-person-with-a-mental-disorder-impeding-choice-to-engage-in-sexual-activity/",
+      "title": "Sexual activity with a person with a mental disorder impeding choice/ Causing or inciting a person, with a mental disorder impeding choice, to engage in sexual activity",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-activity-with-a-person-with-a-mental-disorder-impeding-choice-causing-or-inciting-a-person-wi.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-assault/",
+      "title": "Sexual assault",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-assault.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-assault-of-a-child-under-13/",
+      "title": "Sexual assault of a child under 13",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-assault-of-a-child-under-13.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-communication-with-a-child/",
+      "title": "Sexual communication with a child",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-communication-with-a-child.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/sexual-offences-sentencing-children-and-young-people/",
+      "title": "Sexual offences \u2013 Sentencing children and young people",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/sexual-offences-sentencing-children-and-young-people.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/slavery-servitude-and-forced-or-compulsory-labour-human-trafficking/",
+      "title": "Slavery, servitude and forced or compulsory labour/ Human trafficking",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/slavery-servitude-and-forced-or-compulsory-labour-human-trafficking.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/speed-limiter-not-used-or-incorrectly-calibrated.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/speeding-revised-2017/",
+      "title": "Speeding (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/speeding-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/steering-defective.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/steering-defective-over-35-tonnes.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/stop-on-hard-shoulder.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/strangulation-or-suffocation-racially-or-religiously-aggravated-strangulation-or-suffocation/",
+      "title": "Strangulation or suffocation / Racially or religiously aggravated strangulation or suffocation",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/strangulation-or-suffocation-racially-or-religiously-aggravated-strangulation-or-suffocation.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/supplying-or-offering-to-supply-a-controlled-drug-possession-of-a-controlled-drug-with-intent-to-supply-it-to-another/",
+      "title": "Supplying or offering to supply a controlled drug/ Possession of a controlled drug with intent to supply it to another",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/supplying-or-offering-to-supply-a-controlled-drug-possession-of-a-controlled-drug-with-intent-to-sup.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/supplying-or-offering-to-supply-a-psychoactive-substance-possession-of-psychoactive-substance-with-intent-to-supply/",
+      "title": "Supplying or offering to supply a psychoactive substance/ Possession of psychoactive substance with intent to supply",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/supplying-or-offering-to-supply-a-psychoactive-substance-possession-of-psychoactive-substance-with-i.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/tachograph-not-usednot-working.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/taxi-toutingsoliciting-for-hire-revised-2017/",
+      "title": "Taxi touting/soliciting for hire (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/taxi-toutingsoliciting-for-hire-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/theft-general/",
+      "title": "Theft - general",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/theft-general.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/theft-from-a-shop-or-stall/",
+      "title": "Theft from a shop or stall",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/theft-from-a-shop-or-stall.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/threatening-behaviour-fear-or-provocation-of-violence-racially-or-religiously-aggravated-threatening-behaviour-fear-or-provocation-of-violence/",
+      "title": "Threatening behaviour \u2013 fear or provocation of violence/ Racially or religiously aggravated threatening behaviour \u2013 fear or provocation of violence",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/threatening-behaviour-fear-or-provocation-of-violence-racially-or-religiously-aggravated-threatening.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/threats-to-destroy-or-damage-property/",
+      "title": "Threats to destroy or damage property",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/threats-to-destroy-or-damage-property.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/threats-to-kill/",
+      "title": "Threats to kill",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/threats-to-kill.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/trespass-with-intent-to-commit-a-sexual-offence/",
+      "title": "Trespass with intent to commit a sexual offence",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/trespass-with-intent-to-commit-a-sexual-offence.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/tv-licence-payment-evasion-revised-2017/",
+      "title": "TV licence payment evasion (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/tv-licence-payment-evasion-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/2-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "2. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/tyres-defective.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/tyres-defective-busesgoods-vehicles.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/unfit-through-drink-or-drugs-drive-attempt-to-drive-revised-2017/",
+      "title": "Unfit through drink or drugs (drive/ attempt to drive) (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/unfit-through-drink-or-drugs-drive-attempt-to-drive-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/unfit-through-drink-or-drugs-in-charge-revised-2017/",
+      "title": "Unfit through drink or drugs (in charge) (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/unfit-through-drink-or-drugs-in-charge-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/use-of-mobile-telephone.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/using-or-keeping-heavy-goods-vehicle-if-levy-not-paid.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/vehicle-in-prohibited-lane.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/vehicle-interference-revised-2017/",
+      "title": "Vehicle interference (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/vehicle-interference-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/vehicle-registration-fraud/",
+      "title": "Vehicle registration fraud",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/vehicle-registration-fraud.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/vehicle-taking-without-consent-revised-2017/",
+      "title": "Vehicle taking, without consent (Revised 2017)",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/vehicle-taking-without-consent-revised-2017.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/violent-disorder/",
+      "title": "Violent disorder",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/violent-disorder.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/voyeurism/",
+      "title": "Voyeurism",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/voyeurism.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/4-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "4. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/walk-on-motorway-slip-road-or-hard-shoulder.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/3-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "3. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/weight-position-or-distribution-of-load-or-manner-in-which-load-secured-involving-danger-of-injury.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/5-motoring-offences-appropriate-for-imposition-of-fine-or-discharge/",
+      "title": "5. Motoring offences appropriate for imposition of fine or discharge",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/weight-position-or-distribution-of-load-or-manner-in-which-load-secured-involving-danger-of-injury-o.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://sentencingcouncil.org.uk/guidelines/witness-intimidation/",
+      "title": "Witness intimidation",
+      "guideline_type": "offence",
+      "file": "sentencing-council/magistrates/witness-intimidation.md",
+      "status": "saved",
+      "error": ""
+    }
+  ]
+}

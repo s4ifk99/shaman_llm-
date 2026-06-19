@@ -1,0 +1,561 @@
+{
+  "source": "GOV.UK",
+  "browse_path": "/browse/citizenship/citizenship",
+  "crawl_date": "2026-06-19",
+  "pages_discovered": 69,
+  "pages_saved": 69,
+  "pages": [
+    {
+      "url": "https://www.gov.uk/browse/citizenship/citizenship",
+      "title": "British citizenship",
+      "page_type": "index",
+      "file": "govuk/citizenship/british-citizenship-index.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-irish-citizen",
+      "title": "Apply for British citizenship if you're an Irish citizen",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-irish-citizen.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/organise-citizenship-ceremony-council",
+      "title": "Organise your citizenship ceremony with your council",
+      "page_type": "local_transaction",
+      "file": "govuk/citizenship/organise-citizenship-ceremony-council.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-special-circumstances",
+      "title": "Apply for citizenship in special circumstances",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-special-circumstances.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-british-nationality",
+      "title": "Apply for citizenship if you have British nationality",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-british-nationality.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-stateless",
+      "title": "Apply for citizenship if you're stateless",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-stateless.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-british-citizenship-person-chagossian-descent",
+      "title": "Apply for British citizenship as a person of Chagossian descent",
+      "page_type": "transaction",
+      "file": "govuk/citizenship/apply-british-citizenship-person-chagossian-descent.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-parent-british-overseas-territories-citizen",
+      "title": "Apply for citizenship if your parent is a British overseas territories citizen",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-parent-british-overseas-territories-citizen.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/right-of-abode",
+      "title": "Prove you have right of abode in the UK",
+      "page_type": "guide",
+      "file": "govuk/citizenship/right-of-abode.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/dual-citizenship",
+      "title": "Dual citizenship",
+      "page_type": "answer",
+      "file": "govuk/citizenship/dual-citizenship.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/check-british-citizenship",
+      "title": "Check if you're a British citizen",
+      "page_type": "guide",
+      "file": "govuk/citizenship/check-british-citizenship.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/british-passport-eligibility",
+      "title": "British passport eligibility",
+      "page_type": "answer",
+      "file": "govuk/citizenship/british-passport-eligibility.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/types-of-british-nationality",
+      "title": "Types of British nationality",
+      "page_type": "guide",
+      "file": "govuk/citizenship/types-of-british-nationality.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/british-citizenship",
+      "title": "Check if you can become a British citizen",
+      "page_type": "answer",
+      "file": "govuk/citizenship/british-citizenship.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/citizenship-ceremonies",
+      "title": "Citizenship ceremonies",
+      "page_type": "answer",
+      "file": "govuk/citizenship/citizenship-ceremonies.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-british-parent",
+      "title": "Apply for citizenship if you have a British parent",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-british-parent.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-born-uk",
+      "title": "Apply for citizenship if you were born in the UK",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-born-uk.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-spouse",
+      "title": "Apply for citizenship if your spouse is a British citizen",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-spouse.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/apply-citizenship-indefinite-leave-to-remain",
+      "title": "Apply for citizenship if you have indefinite leave to remain or 'settled status'",
+      "page_type": "guide",
+      "file": "govuk/citizenship/apply-citizenship-indefinite-leave-to-remain.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/life-in-the-uk-test",
+      "title": "Life in the UK Test",
+      "page_type": "guide",
+      "file": "govuk/citizenship/life-in-the-uk-test.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/english-language",
+      "title": "Prove your knowledge of English for citizenship and settling",
+      "page_type": "guide",
+      "file": "govuk/citizenship/english-language.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/get-replacement-citizenship-certificate",
+      "title": "Replace or correct a UK citizenship certificate",
+      "page_type": "answer",
+      "file": "govuk/citizenship/get-replacement-citizenship-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/get-child-citizenship-fee-waiver",
+      "title": "Get a citizenship application fee waiver if you\u2019re under 18",
+      "page_type": "transaction",
+      "file": "govuk/citizenship/get-child-citizenship-fee-waiver.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/renounce-british-nationality",
+      "title": "Give up (renounce) British citizenship or nationality",
+      "page_type": "guide",
+      "file": "govuk/citizenship/renounce-british-nationality.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/windrush-prove-your-right-to-be-in-the-uk",
+      "title": "Windrush Scheme: get proof of your right to be in the UK",
+      "page_type": "guide",
+      "file": "govuk/citizenship/windrush-prove-your-right-to-be-in-the-uk.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-for-review-when-british-citizenship-is-refused-form-nr",
+      "title": "Application for review when British citizenship is refused: form NR",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-for-review-when-british-citizenship-is-refused-form-nr.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/collections/citizenship-application-forms",
+      "title": "Citizenship application forms",
+      "page_type": "collection",
+      "file": "govuk/citizenship/collection-citizenship-application-forms.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/become-a-british-citizen-by-naturalisation-form-an",
+      "title": "Become a British citizen by naturalisation (form AN)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-become-a-british-citizen-by-naturalisation-form-an.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-child-under-18-as-british-citizen-form-mn1",
+      "title": "Register child under 18 as British citizen (form MN1)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-child-under-18-as-british-citizen-form-mn1.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-form-bos",
+      "title": "Register as a British citizen (form B(OS))",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-form-bos.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-form-bota",
+      "title": "Register as a British citizen (form B(OTA))",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-form-bota.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-to-register-as-british-citizen-form-em",
+      "title": "Application to register as British citizen: form EM",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-to-register-as-british-citizen-form-em.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-stateless-person-born-before-1983-form-s1",
+      "title": "Register as a British citizen - stateless person born before 1983 (form S1)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-stateless-person-born-before-1983-form-s1.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-stateless-person-born-outside-the-uk-or-british-overseas-territories-form-s2",
+      "title": "Register as a British citizen - stateless person born outside the UK or British Overseas Territories (form S2)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-stateless-person-born-outside-the-uk-or-british-overseas-territories-f.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-uk-born-stateless-person-form-s3",
+      "title": "Register as a British citizen: UK-born stateless person (form S3)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-uk-born-stateless-person-form-s3.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-form-t",
+      "title": "Register as a British citizen (form T)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-form-t.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-form-rs1",
+      "title": "Register as a British citizen (form RS1)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-form-rs1.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-if-you-were-born-before-july-2006-to-a-british-father-form-ukf",
+      "title": "Register as a British citizen (form UKF)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-if-you-were-born-before-july-2006-to-a-british-father-form-ukf.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-citizen-form-ukm",
+      "title": "Register as a British citizen (form UKM)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-citizen-form-ukm.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-to-register-as-british-overseas-territories-citizen",
+      "title": "Application to register as British overseas territories citizen",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-to-register-as-british-overseas-territories-citizen.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-overseas-territories-citizen-form-botc-f",
+      "title": "Register as a British Overseas Territories citizen (form BOTC (F))",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-overseas-territories-citizen-form-botc-f.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/register-as-a-british-overseas-territories-citizen-form-botcm",
+      "title": "Register as a British Overseas Territories citizen (form BOTC(M))",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-register-as-a-british-overseas-territories-citizen-form-botcm.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-for-registration-as-a-british-citizen-form-ard",
+      "title": "Application for registration as a British citizen (form ARD)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-for-registration-as-a-british-citizen-form-ard.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-to-register-child-as-british-overseas-territories-citizen",
+      "title": "Application to register child as British overseas territories citizen",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-to-register-child-as-british-overseas-territories-citizen.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-to-register-child-under-18-as-british-overseas-citizen",
+      "title": "Application to register child under 18 as British Overseas citizen",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-to-register-child-under-18-as-british-overseas-citizen.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-to-register-child-under-18-as-british-subject",
+      "title": "Application to register child under 18 as British subject",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-to-register-child-under-18-as-british-subject.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/child-citizenship-fee-waiver-request-form",
+      "title": "Child citizenship fee waiver request",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-child-citizenship-fee-waiver-request-form.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/apply-for-a-duplicate-citizenship-certificate-form-nc",
+      "title": "Apply for a duplicate citizenship certificate (form NC)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-apply-for-a-duplicate-citizenship-certificate-form-nc.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/apply-for-confirmation-of-british-nationality-status-form-ns",
+      "title": "Apply for confirmation of British nationality status (form NS)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-apply-for-confirmation-of-british-nationality-status-form-ns.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/apply-for-proof-that-you-do-not-have-british-citizenship-form-nq",
+      "title": "Apply for proof that you do not have British citizenship (form NQ)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-apply-for-proof-that-you-do-not-have-british-citizenship-form-nq.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/correct-a-registration-or-naturalisation-certificate",
+      "title": "Correct a registration or naturalisation certificate",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-correct-a-registration-or-naturalisation-certificate.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/apply-to-give-up-renounce-british-citizenship-form-rn",
+      "title": "Apply to give up (renounce) British citizenship (form RN)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-apply-to-give-up-renounce-british-citizenship-form-rn.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-for-a-certificate-of-entitlement-to-the-right-of-abode-form-roa",
+      "title": "Application for a certificate of entitlement to the right of abode (form ROA)",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-for-a-certificate-of-entitlement-to-the-right-of-abode-form-roa.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/application-to-reconsider-a-decision-for-a-certificate-of-entitlement-to-the-right-of-abode",
+      "title": "Application to reconsider a decision for a certificate of entitlement to the right of abode",
+      "page_type": "form",
+      "file": "govuk/citizenship/publication-application-to-reconsider-a-decision-for-a-certificate-of-entitlement-to-the-right-of-abode.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/collections/citizenship-guidance",
+      "title": "Citizenship guidance",
+      "page_type": "collection",
+      "file": "govuk/citizenship/collection-citizenship-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-an-guidance",
+      "title": "Form AN: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-an-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-mn1-guidance",
+      "title": "Form MN1: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-mn1-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-bos-guidance",
+      "title": "Form B(OS): guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-bos-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-bota-guidance",
+      "title": "Form B(OTA): guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-bota-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-t-guidance",
+      "title": "Form T: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-t-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-s-guidance",
+      "title": "Form S: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-s-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-rs1-guidance",
+      "title": "Form RS1: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-rs1-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-ukf-guidance",
+      "title": "Form UKF: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-ukf-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-ukm-guidance",
+      "title": "Form UKM: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-ukm-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-rn-guidance",
+      "title": "Form RN: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-rn-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-ns-guidance",
+      "title": "Form NS: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-ns-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/form-roa-guidance",
+      "title": "Form ROA: guidance",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-form-roa-guidance.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/registration-as-a-british-overseas-territories-citizen-botcf",
+      "title": "Registration as a British Overseas Territories citizen (BOTC(F))",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-registration-as-a-british-overseas-territories-citizen-botcf.md",
+      "status": "saved",
+      "error": ""
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/registration-as-british-if-your-mother-had-connection-to-a-british-overseas-territory",
+      "title": "Registration as British if your mother had connection to a British Overseas Territory",
+      "page_type": "guidance",
+      "file": "govuk/citizenship/publication-registration-as-british-if-your-mother-had-connection-to-a-british-overseas-territory.md",
+      "status": "saved",
+      "error": ""
+    }
+  ]
+}

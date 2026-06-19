@@ -15,5 +15,8 @@ Changes must go through approved crawlers in `scripts/`:
 - `crawl_cpr.py` → `~/Projects/legal_shaman/raw/cpr/`
 - `crawl_lawhive.py` → `~/Projects/legal_shaman/raw/lawhive/`
 - `crawl_taylor_rose.py` → `~/Projects/legal_shaman/raw/taylor-rose/` (Taylor Rose [Insights](https://www.taylor-rose.co.uk/insights))
+- `crawl_legislation_govuk.py` → `~/Projects/legal_shaman/raw/legislation-govuk/` ([legislation.gov.uk](https://www.legislation.gov.uk/))
+- `crawl_sentencing_council.py` → `~/Projects/legal_shaman/raw/sentencing-council/` ([Sentencing Council](https://sentencingcouncil.org.uk/guidelines/magistrates/))
+- `crawl_govuk.py` → `~/Projects/legal_shaman/raw/govuk/` ([GOV.UK](https://www.gov.uk/))
 
 When reading raw files for wiki ingestion, use the YAML frontmatter (`source`, `url`, `title`, `crawl_date`) for attribution. Preserve source meaning when summarising into wiki pages.
